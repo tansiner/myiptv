@@ -76,3 +76,12 @@ http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=570e1425009a0bba3ebe43c25
 
 #EXTINF:-1, tvg-id="Кинопоказ" tvg-logo="http://telik.online/images/kinopokaz-hd.png" tvg-name="Кинопоказ"  group-title="Movie",Кинопоказ
 http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=de3c26d3391b99034d2d199d4010dc24-1634861724-82i06i032i88
+
+#EXTINF:-1, tvg-id="Киномикс" tvg-logo="http://telik.online/images/kinomiks.png" tvg-name="Киномикс"  group-title="Movie",Киномикс
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+
+#EXTINF:-1, tvg-id="Кинопремьера" tvg-logo="http://telik.online/images/kinopremera.png" tvg-name="Кинопремьера"  group-title="Movie",Кинопремьера
+http://185.161.224.216/dash/Kinopremiera_HD.ism/playlist.mpd
+
+#EXTINF:-1, tvg-id="Остросюжетное HD" tvg-logo="http://telik.online/images/ostrosyuzhetnoe-hd.png" tvg-name="Остросюжетное HD"  group-title="Movie",Остросюжетное HD
+http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1634862472Se3c8594e056deeb995cf1bf299e1a95eS82h06h032h88
