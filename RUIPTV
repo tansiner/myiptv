@@ -31,7 +31,7 @@ http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2"  group-title="Movie",Amedia 2
 http://194.9.27.164:8109/play/A2/index.m3u8
-
+ 
 #EXTINF:-1, tvg-id="Amedia Hit" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-name="Amedia Hit HD"  group-title="Movie",Amedia Hit HD
 http://194.9.27.164:8109/play/AMEDIA_HIT/index.m3u8
 
