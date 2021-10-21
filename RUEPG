@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus" generator-info-url="http://www.webgrabplus.com">
 <channel id="Страшное HD">
 <display-name lang="ru">Страшное HD</display-name>
+<icon src="https://resizer.mail.ru/p/3ff38bf7-e08a-5a3b-9071-2613a65183b3/dpr:200/AAACJW53QUvg__iJkIcH7aBEA1Ez4o8WEbcd6t8SF6alONlodmUbUail-2CDHOhSdxi-8k_zwqCrKSwsbpuTKF6SOMU.png" />
 <url>http://www.tv.mail.ru</url>
 </channel>
 <channel id="Fox Life HD">
@@ -29,7 +30,7 @@
 <icon src="https://resizer.mail.ru/p/17f8bac2-9fb4-5011-96a9-850ff9822833/dpr:200/AQACcuPxh24nPnc26sqW7sodcVmU_zxXVrERvgrOliTY_BsuJwlc3-xek4i_gauOwCMPE3QqUHSOEy1gTZOTeojK8dY.png" />
 <url>http://www.tv.mail.ru</url>
 </channel>
-<channel id="FOX HD">
+<channel id="FOX">
 <display-name lang="ru">FOX HD</display-name>
 <url>http://www.tv.mail.ru</url>
 </channel>
@@ -93,6 +94,27 @@
 <icon src="https://resizer.mail.ru/p/2a64ac38-423d-5829-afa2-d82d08f0b5b1/dpr:200/AAACJvV8KwFl7FD0_8AUOULk6ekZ1htgPrADYPz4CIfxhMYhQaUUrjRLwmUfMqEea4dXndtV7nyLMjxa8LyPJ6nd_Uc.png" />
 <url>http://www.tv.mail.ru</url>
 </channel>
+<programme start="20211021171500 +0300" stop="20211021183500 +0300" channel="Страшное HD">
+<title lang="ru">Охотники на ведьм</title>
+</programme>
+<programme start="20211021183500 +0300" stop="20211021203000 +0300" channel="Страшное HD">
+<title lang="ru">Мгла</title>
+</programme>
+<programme start="20211021203000 +0300" stop="20211021220500 +0300" channel="Страшное HD">
+<title lang="ru">Дантист 2</title>
+</programme>
+<programme start="20211021220500 +0300" stop="20211021234000 +0300" channel="Страшное HD">
+<title lang="ru">Кловерфилд, 10</title>
+</programme>
+<programme start="20211021234000 +0300" stop="20211022010500 +0300" channel="Страшное HD">
+<title lang="ru">Цунами 3D</title>
+</programme>
+<programme start="20211022010500 +0300" stop="20211022023000 +0300" channel="Страшное HD">
+<title lang="ru">Бугимен</title>
+</programme>
+<programme start="20211022023000 +0300" stop="20211022035500 +0300" channel="Страшное HD">
+<title lang="ru">Бугимен-2</title>
+</programme>
 <programme start="20211021174500 +0300" stop="20211021183500 +0300" channel="Fox Life HD">
 <title lang="ru">Касл</title>
 </programme>
@@ -141,12 +163,6 @@
 <programme start="20211022034000 +0300" stop="20211022042500 +0300" channel="Fox Life HD">
 <title lang="ru">Анатомия страсти</title>
 </programme>
-<programme start="20211021173000 +0300" stop="20211021180000 +0300" channel="ТНТ4">
-<title lang="ru">Универ</title>
-</programme>
-<programme start="20211021180000 +0300" stop="20211021180100 +0300" channel="ТНТ4">
-<title lang="ru">Погода на ТНТ</title>
-</programme>
 <programme start="20211021180100 +0300" stop="20211021190000 +0300" channel="ТНТ4">
 <title lang="ru">Comedy Club. Поставь по-братски</title>
 </programme>
@@ -185,9 +201,6 @@
 </programme>
 <programme start="20211022030000 +0300" stop="20211022040000 +0300" channel="ТНТ4">
 <title lang="ru">Убойная лига</title>
-</programme>
-<programme start="20211021165500 +0300" stop="20211021180000 +0300" channel="SONY ТВ">
-<title lang="ru">Правила моей пекарни</title>
 </programme>
 <programme start="20211021180000 +0300" stop="20211021184500 +0300" channel="SONY ТВ">
 <title lang="ru">Проект "Подиум"</title>
@@ -230,9 +243,6 @@
 </programme>
 <programme start="20211022031000 +0300" stop="20211022040000 +0300" channel="SONY ТВ">
 <title lang="ru">Амнезия</title>
-</programme>
-<programme start="20211021172500 +0300" stop="20211021181000 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
 </programme>
 <programme start="20211021181000 +0300" stop="20211021185500 +0300" channel="Sony Turbo">
 <title lang="ru">Мыслить как преступник</title>
@@ -297,9 +307,6 @@
 <programme start="20211022031500 +0300" stop="20211022040500 +0300" channel="SONY Sci-Fi">
 <title lang="ru">12 обезьян</title>
 </programme>
-<programme start="20211021163000 +0300" stop="20211021180000 +0300" channel="Комедийное HD">
-<title lang="ru">Пушки Акимбо</title>
-</programme>
 <programme start="20211021180000 +0300" stop="20211021195500 +0300" channel="Комедийное HD">
 <title lang="ru">Кадры</title>
 </programme>
@@ -341,9 +348,6 @@
 </programme>
 <programme start="20211022023500 +0300" stop="20211022040500 +0300" channel="Шокирующее HD">
 <title lang="ru">Кукла</title>
-</programme>
-<programme start="20211021173000 +0300" stop="20211021180500 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
 </programme>
 <programme start="20211021180500 +0300" stop="20211021184000 +0300" channel="Amedia Hit">
 <title lang="ru">Девочки</title>
@@ -417,9 +421,6 @@
 <programme start="20211022032500 +0300" stop="20211022035000 +0300" channel="Amedia Premium HD">
 <title lang="ru">Призраки</title>
 </programme>
-<programme start="20211021172000 +0300" stop="20211021180500 +0300" channel="TV1000">
-<title lang="ru">Доктор Хаус</title>
-</programme>
 <programme start="20211021180500 +0300" stop="20211021190000 +0300" channel="TV1000">
 <title lang="ru">Доктор Хаус</title>
 </programme>
@@ -435,9 +436,6 @@
 <programme start="20211022012500 +0300" stop="20211022032500 +0300" channel="TV1000">
 <title lang="ru">Мачеха</title>
 </programme>
-<programme start="20211021160500 +0300" stop="20211021181000 +0300" channel="ViP Megahit">
-<title lang="ru">Игра на понижение</title>
-</programme>
 <programme start="20211021181000 +0300" stop="20211021200000 +0300" channel="ViP Megahit">
 <title lang="ru">Багровый пик</title>
 </programme>
@@ -452,9 +450,6 @@
 </programme>
 <programme start="20211022011000 +0300" stop="20211022030000 +0300" channel="ViP Megahit">
 <title lang="ru">Ученик чародея</title>
-</programme>
-<programme start="20211021171500 +0300" stop="20211021180000 +0300" channel="ViP Serial">
-<title lang="ru">Атлантида</title>
 </programme>
 <programme start="20211021180000 +0300" stop="20211021184500 +0300" channel="ViP Serial">
 <title lang="ru">Атлантида</title>
@@ -500,9 +495,6 @@
 </programme>
 <programme start="20211022033500 +0300" stop="20211022041500 +0300" channel="ViP Serial">
 <title lang="ru">Викинги</title>
-</programme>
-<programme start="20211021174000 +0300" stop="20211021180500 +0300" channel="Paramount Comedy Russia HD">
-<title lang="ru">Друзья</title>
 </programme>
 <programme start="20211021180500 +0300" stop="20211021183000 +0300" channel="Paramount Comedy Russia HD">
 <title lang="ru">Монстры корпорации</title>
