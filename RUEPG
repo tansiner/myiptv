@@ -146,26 +146,86 @@
 </channel>
 
 <channel id="Paramount Channel">
-    <display-name lang="ru">Paramount Channel</display-name>
-    <icon src="https://resizer.mail.ru/p/d787599b-39da-5e00-8435-70e5fa2d26cb/dpr:200/AAACYQWqoCys9xWm7cN5cVf-6fCqUG_Z3i64b_12G2sT2Nz_y5hyZC84_gnGSoBu4Q_ayZZpitasI2OAX3J9sD2lQT4.png" />
-    <url>http://www.tv.mail.ru</url>
-  </channel>
-  <channel id="Paramount Comedy Russia HD">
-    <display-name lang="ru">Paramount Comedy Russia HD</display-name>
-    <icon src="https://resizer.mail.ru/p/f6eda1e4-283b-53ee-8125-c48f4d8a3ad5/dpr:200/AAACC9IRRpQg07OBfnRKNlI3_fikPZYtKKboJW-NP-rjfM5ru7YtYBUtfOhB3k4qBTFgLz1w5EfTGct8TZBbsSMlERg.png" />
-    <url>http://www.tv.mail.ru</url>
-  </channel>
+<display-name lang="ru">Paramount Channel</display-name>
+<icon src="https://resizer.mail.ru/p/d787599b-39da-5e00-8435-70e5fa2d26cb/dpr:200/AAACYQWqoCys9xWm7cN5cVf-6fCqUG_Z3i64b_12G2sT2Nz_y5hyZC84_gnGSoBu4Q_ayZZpitasI2OAX3J9sD2lQT4.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Paramount Comedy Russia HD">
+<display-name lang="ru">Paramount Comedy Russia HD</display-name>
+<icon src="https://resizer.mail.ru/p/f6eda1e4-283b-53ee-8125-c48f4d8a3ad5/dpr:200/AAACC9IRRpQg07OBfnRKNlI3_fikPZYtKKboJW-NP-rjfM5ru7YtYBUtfOhB3k4qBTFgLz1w5EfTGct8TZBbsSMlERg.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
 
 <channel id="TV1000">
-    <display-name lang="ru">TV1000</display-name>
-    <icon src="https://resizer.mail.ru/p/542f700f-6ef1-551a-837b-2c9c947731a4/dpr:200/AQACC2CR2R-7LYJJSpdxzYN1MgUDxdOYk_vptXJUhYGYcS5lGW6sDAbbb05mXD6CP2qj-epQBwGxzAbz5u7wc-lTH2c.png" />
-    <url>http://www.tv.mail.ru</url>
-  </channel>
-  <channel id="TV1000 Action">
-    <display-name lang="ru">TV1000 Action</display-name>
-    <icon src="https://resizer.mail.ru/p/fa627e23-fba2-5922-9ba2-0c97e9a6e48c/dpr:200/AQAC5e4bIAoALEpaOGDR1oKkXPZNboHhXJaKEBhB0Bv8-3AeClafXQYN4wvxuEDOPEgBITTh2d437LaUFo-5Ta1sKOo.png" />
-    <url>http://www.tv.mail.ru</url>
-  </channel>
+<display-name lang="ru">TV1000</display-name>
+<icon src="https://resizer.mail.ru/p/542f700f-6ef1-551a-837b-2c9c947731a4/dpr:200/AQACC2CR2R-7LYJJSpdxzYN1MgUDxdOYk_vptXJUhYGYcS5lGW6sDAbbb05mXD6CP2qj-epQBwGxzAbz5u7wc-lTH2c.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="TV1000 Action">
+<display-name lang="ru">TV1000 Action</display-name>
+<icon src="https://resizer.mail.ru/p/fa627e23-fba2-5922-9ba2-0c97e9a6e48c/dpr:200/AQAC5e4bIAoALEpaOGDR1oKkXPZNboHhXJaKEBhB0Bv8-3AeClafXQYN4wvxuEDOPEgBITTh2d437LaUFo-5Ta1sKOo.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+
+<channel id="TV1000 World kino">
+<display-name lang="ru">TV1000 World kino</display-name>
+<icon src="https://resizer.mail.ru/p/542f700f-6ef1-551a-837b-2c9c947731a4/dpr:200/AQACFFpsb_QkZ0zK-ZJDnlY64fGZPr39EtdrXpiCb6fIWcBWWmfW1bLQ0J7XK5zWYNnM8R4KLdJECvkZoMdT0BgBNVY.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="TV1000 Action">
+<display-name lang="ru">TV1000 Action</display-name>
+<icon src="https://resizer.mail.ru/p/fa627e23-fba2-5922-9ba2-0c97e9a6e48c/dpr:200/AQAC5e4bIAoALEpaOGDR1oKkXPZNboHhXJaKEBhB0Bv8-3AeClafXQYN4wvxuEDOPEgBITTh2d437LaUFo-5Ta1sKOo.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="TV1000 Русское кино">
+<display-name lang="ru">TV1000 Русское кино</display-name>
+<icon src="https://resizer.mail.ru/p/542f700f-6ef1-551a-837b-2c9c947731a4/dpr:200/AQACYGCXj4CqTzQ_DXrJBNrls_Ymn5eaDsyP9U1UId6acHjizJGZEw7xY2EhiSvQQg2k0fYNux9HpzMDX3BQVhCtaFI.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="TV1000 Русское кино HD">
+<display-name lang="ru">TV1000 Русское кино HD</display-name>
+<icon src="https://resizer.mail.ru/p/542f700f-6ef1-551a-837b-2c9c947731a4/dpr:200/AQACqodqhPjZXjRYR5j0VZQuLRQ3DJGGmbrpebUdhWvv_fKBVu3j9fjGiUPcWa_sCHyqNI8Kh_N5l0t55PWzI5Z3qe4.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Мужское кино">
+<display-name lang="ru">Мужское кино</display-name>
+<icon src="https://resizer.mail.ru/p/84c20c75-95c4-565f-9cda-8e90e25ac9a9/dpr:200/AAAC_AZvcrQy1yFomShCF1FSbRDX65O3EQS8U6fmXZcxoFum9v2XtVEoZEOodor7MpAPumhtS2BQa3FV1Bp1YWdDEkY.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Романтичное HD">
+<display-name lang="ru">Романтичное HD</display-name>
+<icon src="https://resizer.mail.ru/p/01def78e-9679-5aac-81b1-40e6e6ae55c8/dpr:200/AAAC2a7ThWHnbjA4rXpWYawloYwghiAtK5p43oxW8laK1mwtYAVu5O9FoKJX73fNfnyC74V41JpCHtPlJ0rqIFxqBdM.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Hollywood HD">
+<display-name lang="ru">Hollywood HD</display-name>
+<icon src="https://resizer.mail.ru/p/4ead0937-0bf9-5945-a88b-4baf927d2a29/dpr:200/AAACU8MHuaEaFtVgJCm9RcW_IxsnJx2XHkifQdUw6U_urf7YNJokB-XuJcRxVxPXSiLFrkuGP_zHF5U0kSvxNPh9_MQ.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="ViP Premiere">
+<display-name lang="ru">ViP Premiere</display-name>
+<icon src="https://resizer.mail.ru/p/258e4a8c-92f2-5440-be6a-d2752205ab56/dpr:200/AAAC6zQ8DzNxWZa8bI8Kripa4xv-1zzTQ3jqcANIPdKEI3ZVOj-xU6XOftoizqvgiXNKbIkl26t3TDKPZWFGhVUN9Nw.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="ViP Megahit">
+<display-name lang="ru">ViP Megahit</display-name>
+<icon src="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/dpr:200/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="ViP Serial">
+<display-name lang="ru">ViP Serial</display-name>
+<icon src="https://resizer.mail.ru/p/9f22c310-d567-5977-a334-924d9fad3b14/dpr:200/AAACaFnmMOlAjl61lQ9KhF6dOh_H-qWU9sYRn4O0L8JAsUOYDMTc6IvYe-1jr5bH57D33_0wOreA8oDNs347L-PX2Wk.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="ViP Comedy">
+<display-name lang="ru">ViP Comedy</display-name>
+<icon src="https://resizer.mail.ru/p/fac64fc6-ffd6-5c2f-bb56-3019db54a57b/dpr:200/AAACOQieLLwXogvhDcDdnmcQkp3pbjUu1O324SDwFqzsR-bvKsJQu1UvWEeO-Ja5pz_3hGVwxwhDXi-g_XozkPMMU3A.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+
+
+
+
 
 
 <programme start="20211021192500 +0300" stop="20211021201000 +0300" channel="Fox Life HD">
@@ -761,110 +821,310 @@
 <title lang="ru">Глухарь. Возвращение</title>
 </programme>
 <programme start="20211021191000 +0300" stop="20211021210000 +0300" channel="Paramount Channel">
-    <title lang="ru">Быстрый и мертвый</title>
-  </programme>
-  <programme start="20211021210000 +0300" stop="20211021231500 +0300" channel="Paramount Channel">
-    <title lang="ru">Двухсотлетний человек</title>
-  </programme>
-  <programme start="20211021231500 +0300" stop="20211022011500 +0300" channel="Paramount Channel">
-    <title lang="ru">Вспомнить все</title>
-  </programme>
-  <programme start="20211022011500 +0300" stop="20211022025500 +0300" channel="Paramount Channel">
-    <title lang="ru">Беспечный ездок</title>
-  </programme>
-  <programme start="20211021201000 +0300" stop="20211021203500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Друзья</title>
-  </programme>
-  <programme start="20211021203500 +0300" stop="20211021210000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Друзья</title>
-  </programme>
-  <programme start="20211021210000 +0300" stop="20211021212500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Как я встретил вашу маму</title>
-  </programme>
-  <programme start="20211021212500 +0300" stop="20211021215000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Как я встретил вашу маму</title>
-  </programme>
-  <programme start="20211021215000 +0300" stop="20211021221500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Теория большого взрыва</title>
-  </programme>
-  <programme start="20211021221500 +0300" stop="20211021224000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Бруклин 9-9</title>
-  </programme>
-  <programme start="20211021224000 +0300" stop="20211021230500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Бруклин 9-9</title>
-  </programme>
-  <programme start="20211021230500 +0300" stop="20211021233000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Аквафина - Нора из Квинса</title>
-  </programme>
-  <programme start="20211021233000 +0300" stop="20211022000000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Аквафина - Нора из Квинса</title>
-  </programme>
-  <programme start="20211022000000 +0300" stop="20211022002500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Рино-911</title>
-  </programme>
-  <programme start="20211022002500 +0300" stop="20211022005000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Рино-911</title>
-  </programme>
-  <programme start="20211022005000 +0300" stop="20211022011500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Южный парк</title>
-  </programme>
-  <programme start="20211022011500 +0300" stop="20211022014000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Южный парк</title>
-  </programme>
-  <programme start="20211022014000 +0300" stop="20211022020500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Голдберги</title>
-  </programme>
-  <programme start="20211022020500 +0300" stop="20211022023000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Голдберги</title>
-  </programme>
-  <programme start="20211022023000 +0300" stop="20211022025500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Аквафина - Нора из Квинса</title>
-  </programme>
-  <programme start="20211022025500 +0300" stop="20211022032000 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Рино-911</title>
-  </programme>
-  <programme start="20211022032000 +0300" stop="20211022034500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">В Филадельфии всегда солнечно</title>
-  </programme>
-  <programme start="20211022034500 +0300" stop="20211022041500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Как я встретил вашу маму</title>
-  </programme>
-  <programme start="20211022041500 +0300" stop="20211022043500 +0300" channel="Paramount Comedy Russia HD">
-    <title lang="ru">Эй, Арнольд</title>
-  </programme>
-  
-  
-  
-  <programme start="20211021190000 +0300" stop="20211021212500 +0300" channel="TV1000">
-    <title lang="ru">Испанский английский</title>
-  </programme>
-  <programme start="20211021212500 +0300" stop="20211021233000 +0300" channel="TV1000">
-    <title lang="ru">Притворись моей женой</title>
-  </programme>
-  <programme start="20211021233000 +0300" stop="20211022012500 +0300" channel="TV1000">
-    <title lang="ru">Сердцеед</title>
-  </programme>
-  <programme start="20211022012500 +0300" stop="20211022032500 +0300" channel="TV1000">
-    <title lang="ru">Мачеха</title>
-  </programme>
-  <programme start="20211021190000 +0300" stop="20211021210500 +0300" channel="TV1000 Action">
-    <title lang="ru">Молчание ягнят</title>
-  </programme>
-  <programme start="20211021210500 +0300" stop="20211021235500 +0300" channel="TV1000 Action">
-    <title lang="ru">Зодиак</title>
-  </programme>
-  <programme start="20211021235500 +0300" stop="20211022013000 +0300" channel="TV1000 Action">
-    <title lang="ru">Вторжение</title>
-  </programme>
-  <programme start="20211022013000 +0300" stop="20211022040000 +0300" channel="TV1000 Action">
-    <title lang="ru">Терминатор 2</title>
-  </programme>
-  
-  
-  
-  
-  
-  
-  
+<title lang="ru">Быстрый и мертвый</title>
+</programme>
+<programme start="20211021210000 +0300" stop="20211021231500 +0300" channel="Paramount Channel">
+<title lang="ru">Двухсотлетний человек</title>
+</programme>
+<programme start="20211021231500 +0300" stop="20211022011500 +0300" channel="Paramount Channel">
+<title lang="ru">Вспомнить все</title>
+</programme>
+<programme start="20211022011500 +0300" stop="20211022025500 +0300" channel="Paramount Channel">
+<title lang="ru">Беспечный ездок</title>
+</programme>
+<programme start="20211021201000 +0300" stop="20211021203500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Друзья</title>
+</programme>
+<programme start="20211021203500 +0300" stop="20211021210000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Друзья</title>
+</programme>
+<programme start="20211021210000 +0300" stop="20211021212500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Как я встретил вашу маму</title>
+</programme>
+<programme start="20211021212500 +0300" stop="20211021215000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Как я встретил вашу маму</title>
+</programme>
+<programme start="20211021215000 +0300" stop="20211021221500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Теория большого взрыва</title>
+</programme>
+<programme start="20211021221500 +0300" stop="20211021224000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Бруклин 9-9</title>
+</programme>
+<programme start="20211021224000 +0300" stop="20211021230500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Бруклин 9-9</title>
+</programme>
+<programme start="20211021230500 +0300" stop="20211021233000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Аквафина - Нора из Квинса</title>
+</programme>
+<programme start="20211021233000 +0300" stop="20211022000000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Аквафина - Нора из Квинса</title>
+</programme>
+<programme start="20211022000000 +0300" stop="20211022002500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Рино-911</title>
+</programme>
+<programme start="20211022002500 +0300" stop="20211022005000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Рино-911</title>
+</programme>
+<programme start="20211022005000 +0300" stop="20211022011500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Южный парк</title>
+</programme>
+<programme start="20211022011500 +0300" stop="20211022014000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Южный парк</title>
+</programme>
+<programme start="20211022014000 +0300" stop="20211022020500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Голдберги</title>
+</programme>
+<programme start="20211022020500 +0300" stop="20211022023000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Голдберги</title>
+</programme>
+<programme start="20211022023000 +0300" stop="20211022025500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Аквафина - Нора из Квинса</title>
+</programme>
+<programme start="20211022025500 +0300" stop="20211022032000 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Рино-911</title>
+</programme>
+<programme start="20211022032000 +0300" stop="20211022034500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">В Филадельфии всегда солнечно</title>
+</programme>
+<programme start="20211022034500 +0300" stop="20211022041500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Как я встретил вашу маму</title>
+</programme>
+<programme start="20211022041500 +0300" stop="20211022043500 +0300" channel="Paramount Comedy Russia HD">
+<title lang="ru">Эй, Арнольд</title>
+</programme>
+
+
+
+<programme start="20211021190000 +0300" stop="20211021212500 +0300" channel="TV1000">
+<title lang="ru">Испанский английский</title>
+</programme>
+<programme start="20211021212500 +0300" stop="20211021233000 +0300" channel="TV1000">
+<title lang="ru">Притворись моей женой</title>
+</programme>
+<programme start="20211021233000 +0300" stop="20211022012500 +0300" channel="TV1000">
+<title lang="ru">Сердцеед</title>
+</programme>
+<programme start="20211022012500 +0300" stop="20211022032500 +0300" channel="TV1000">
+<title lang="ru">Мачеха</title>
+</programme>
+<programme start="20211021190000 +0300" stop="20211021210500 +0300" channel="TV1000 Action">
+<title lang="ru">Молчание ягнят</title>
+</programme>
+<programme start="20211021210500 +0300" stop="20211021235500 +0300" channel="TV1000 Action">
+<title lang="ru">Зодиак</title>
+</programme>
+<programme start="20211021235500 +0300" stop="20211022013000 +0300" channel="TV1000 Action">
+<title lang="ru">Вторжение</title>
+</programme>
+<programme start="20211022013000 +0300" stop="20211022040000 +0300" channel="TV1000 Action">
+<title lang="ru">Терминатор 2</title>
+</programme>
+
+
+
+<programme start="20211021192000 +0300" stop="20211021210000 +0300" channel="TV1000 World kino">
+<title lang="ru">Воспитательница</title>
+</programme>
+<programme start="20211021210000 +0300" stop="20211021224000 +0300" channel="TV1000 World kino">
+<title lang="ru">Человек, который убил Гитлера и затем снежного человека</title>
+</programme>
+<programme start="20211021224000 +0300" stop="20211022002500 +0300" channel="TV1000 World kino">
+<title lang="ru">Беспредел</title>
+</programme>
+<programme start="20211022002500 +0300" stop="20211022021500 +0300" channel="TV1000 World kino">
+<title lang="ru">Избави нас от лукавого</title>
+</programme>
+<programme start="20211022021500 +0300" stop="20211022032500 +0300" channel="TV1000 World kino">
+<title lang="ru">Честный человек</title>
+</programme>
+<programme start="20211022032500 +0300" stop="20211022044500 +0300" channel="TV1000 World kino">
+<title lang="ru">Ни минуты покоя</title>
+</programme>
+<programme start="20211021190000 +0300" stop="20211021210500 +0300" channel="TV1000 Action">
+<title lang="ru">Молчание ягнят</title>
+</programme>
+<programme start="20211021210500 +0300" stop="20211021235500 +0300" channel="TV1000 Action">
+<title lang="ru">Зодиак</title>
+</programme>
+<programme start="20211021235500 +0300" stop="20211022013000 +0300" channel="TV1000 Action">
+<title lang="ru">Вторжение</title>
+</programme>
+<programme start="20211022013000 +0300" stop="20211022040000 +0300" channel="TV1000 Action">
+<title lang="ru">Терминатор 2</title>
+</programme>
+<programme start="20211021201000 +0300" stop="20211021213500 +0300" channel="TV1000 Русское кино">
+<title lang="ru">Все о мужчинах</title>
+</programme>
+<programme start="20211021213500 +0300" stop="20211021231000 +0300" channel="TV1000 Русское кино">
+<title lang="ru">Напарник</title>
+</programme>
+<programme start="20211021231000 +0300" stop="20211022004000 +0300" channel="TV1000 Русское кино">
+<title lang="ru">Парень с нашего кладбища</title>
+</programme>
+<programme start="20211022004000 +0300" stop="20211022022000 +0300" channel="TV1000 Русское кино">
+<title lang="ru">Счастье в конверте</title>
+</programme>
+<programme start="20211022022000 +0300" stop="20211022041000 +0300" channel="TV1000 Русское кино">
+<title lang="ru">Каникулы строгого режима</title>
+</programme>
+<programme start="20211021201000 +0300" stop="20211021213500 +0300" channel="TV1000 Русское кино HD">
+<title lang="ru">Все о мужчинах</title>
+</programme>
+<programme start="20211021213500 +0300" stop="20211021231000 +0300" channel="TV1000 Русское кино HD">
+<title lang="ru">Напарник</title>
+</programme>
+<programme start="20211021231000 +0300" stop="20211022004000 +0300" channel="TV1000 Русское кино HD">
+<title lang="ru">Парень с нашего кладбища</title>
+</programme>
+<programme start="20211022004000 +0300" stop="20211022022000 +0300" channel="TV1000 Русское кино HD">
+<title lang="ru">Счастье в конверте</title>
+</programme>
+<programme start="20211022022000 +0300" stop="20211022041000 +0300" channel="TV1000 Русское кино HD">
+<title lang="ru">Каникулы строгого режима</title>
+</programme>
+<programme start="20211021200000 +0300" stop="20211021220000 +0300" channel="Мужское кино">
+<title lang="ru">Джентльмены</title>
+</programme>
+<programme start="20211021220000 +0300" stop="20211022004000 +0300" channel="Мужское кино">
+<title lang="ru">Гнев</title>
+</programme>
+<programme start="20211022004000 +0300" stop="20211022024500 +0300" channel="Мужское кино">
+<title lang="ru">Финальный счет</title>
+</programme>
+<programme start="20211022024500 +0300" stop="20211022042000 +0300" channel="Мужское кино">
+<title lang="ru">Вакансия на жертву</title>
+</programme>
+<programme start="20211021194000 +0300" stop="20211021202500 +0300" channel="Романтичное HD">
+<title lang="ru">Клон</title>
+</programme>
+<programme start="20211021202500 +0300" stop="20211021211500 +0300" channel="Романтичное HD">
+<title lang="ru">Клон</title>
+</programme>
+<programme start="20211021211500 +0300" stop="20211021230500 +0300" channel="Романтичное HD">
+<title lang="ru">Марли и я</title>
+</programme>
+<programme start="20211021230500 +0300" stop="20211022010000 +0300" channel="Романтичное HD">
+<title lang="ru">Незваные гости</title>
+</programme>
+<programme start="20211022010000 +0300" stop="20211022014500 +0300" channel="Романтичное HD">
+<title lang="ru">Хозяйка судьбы</title>
+</programme>
+<programme start="20211022014500 +0300" stop="20211022024500 +0300" channel="Романтичное HD">
+<title lang="ru">Хозяйка судьбы</title>
+</programme>
+<programme start="20211022024500 +0300" stop="20211022033000 +0300" channel="Романтичное HD">
+<title lang="ru">Хозяйка судьбы</title>
+</programme>
+<programme start="20211022033000 +0300" stop="20211022043000 +0300" channel="Романтичное HD">
+<title lang="ru">Хозяйка судьбы</title>
+</programme>
+<programme start="20211021181500 +0300" stop="20211021204000 +0300" channel="Hollywood HD">
+<title lang="ru">Терминатор 2</title>
+</programme>
+<programme start="20211021204000 +0300" stop="20211021221500 +0300" channel="Hollywood HD">
+<title lang="ru">Шеф Адам Джонс</title>
+</programme>
+<programme start="20211021221500 +0300" stop="20211021222500 +0300" channel="Hollywood HD">
+<title lang="ru">За кадром</title>
+</programme>
+<programme start="20211021222500 +0300" stop="20211022000000 +0300" channel="Hollywood HD">
+<title lang="ru">Разрушение</title>
+</programme>
+<programme start="20211022000000 +0300" stop="20211022001500 +0300" channel="Hollywood HD">
+<title lang="ru">Новости Голливуда</title>
+</programme>
+<programme start="20211022001500 +0300" stop="20211022021500 +0300" channel="Hollywood HD">
+<title lang="ru">Красивый мальчик</title>
+</programme>
+<programme start="20211022021500 +0300" stop="20211022034500 +0300" channel="Hollywood HD">
+<title lang="ru">Дикий</title>
+</programme>
+<programme start="20211022034500 +0300" stop="20211022035000 +0300" channel="Hollywood HD">
+<title lang="ru">За кадром</title>
+</programme>
+<programme start="20211021193000 +0300" stop="20211021210000 +0300" channel="ViP Premiere">
+<title lang="ru">За мечтой</title>
+</programme>
+<programme start="20211021210000 +0300" stop="20211021223500 +0300" channel="ViP Premiere">
+<title lang="ru">Офелия</title>
+</programme>
+<programme start="20211021223500 +0300" stop="20211022004000 +0300" channel="ViP Premiere">
+<title lang="ru">Маленькие женщины</title>
+</programme>
+<programme start="20211022004000 +0300" stop="20211022022500 +0300" channel="ViP Premiere">
+<title lang="ru">22 мили</title>
+</programme>
+<programme start="20211022022500 +0300" stop="20211022034500 +0300" channel="ViP Premiere">
+<title lang="ru">Кукла 2</title>
+</programme>
+<programme start="20211021200000 +0300" stop="20211021220000 +0300" channel="ViP Megahit">
+<title lang="ru">Привидение</title>
+</programme>
+<programme start="20211021220000 +0300" stop="20211021232500 +0300" channel="ViP Megahit">
+<title lang="ru">Незваные</title>
+</programme>
+<programme start="20211021232500 +0300" stop="20211022011000 +0300" channel="ViP Megahit">
+<title lang="ru">Воздушная тюрьма</title>
+</programme>
+<programme start="20211022011000 +0300" stop="20211022030000 +0300" channel="ViP Megahit">
+<title lang="ru">Ученик чародея</title>
+</programme>
+<programme start="20211021201500 +0300" stop="20211021210000 +0300" channel="ViP Serial">
+<title lang="ru">Викинги</title>
+</programme>
+<programme start="20211021210000 +0300" stop="20211021215000 +0300" channel="ViP Serial">
+<title lang="ru">Спартак</title>
+</programme>
+<programme start="20211021215000 +0300" stop="20211021224000 +0300" channel="ViP Serial">
+<title lang="ru">Спартак</title>
+</programme>
+<programme start="20211021224000 +0300" stop="20211021230500 +0300" channel="ViP Serial">
+<title lang="ru">Записки юного врача</title>
+</programme>
+<programme start="20211021230500 +0300" stop="20211021232500 +0300" channel="ViP Serial">
+<title lang="ru">Записки юного врача</title>
+</programme>
+<programme start="20211021232500 +0300" stop="20211021235000 +0300" channel="ViP Serial">
+<title lang="ru">Записки юного врача</title>
+</programme>
+<programme start="20211021235000 +0300" stop="20211022001500 +0300" channel="ViP Serial">
+<title lang="ru">Записки юного врача</title>
+</programme>
+<programme start="20211022001500 +0300" stop="20211022011000 +0300" channel="ViP Serial">
+<title lang="ru">Спартак</title>
+</programme>
+<programme start="20211022011000 +0300" stop="20211022020500 +0300" channel="ViP Serial">
+<title lang="ru">Спартак</title>
+</programme>
+<programme start="20211022020500 +0300" stop="20211022025000 +0300" channel="ViP Serial">
+<title lang="ru">Викинги</title>
+</programme>
+<programme start="20211022025000 +0300" stop="20211022033500 +0300" channel="ViP Serial">
+<title lang="ru">Викинги</title>
+</programme>
+<programme start="20211022033500 +0300" stop="20211022041500 +0300" channel="ViP Serial">
+<title lang="ru">Викинги</title>
+</programme>
+<programme start="20211021185500 +0300" stop="20211021203000 +0300" channel="ViP Comedy">
+<title lang="ru">Каникулы</title>
+</programme>
+<programme start="20211021203000 +0300" stop="20211021220000 +0300" channel="ViP Comedy">
+<title lang="ru">Каникулы мечты</title>
+</programme>
+<programme start="20211021220000 +0300" stop="20211021233000 +0300" channel="ViP Comedy">
+<title lang="ru">Добро пожаловать, или Соседям вход воспрещен</title>
+</programme>
+<programme start="20211021233000 +0300" stop="20211022012000 +0300" channel="ViP Comedy">
+<title lang="ru">Все без ума от Мэри</title>
+</programme>
+<programme start="20211022012000 +0300" stop="20211022025500 +0300" channel="ViP Comedy">
+<title lang="ru">Смоки и Бандит</title>
+</programme>
+<programme start="20211022025500 +0300" stop="20211022042000 +0300" channel="ViP Comedy">
+<title lang="ru">Милашка</title>
+</programme> 
+
+
+
 
 </tv>
