@@ -9,5 +9,5 @@ http://85.112.114.11:8088/udp/238.2.61.243:1234
 http://194.9.27.164:8110/play/SONY_CHANNEL_HD/index.m3u8
 #EXTINF:-1, tvg-id="Sony Turbo" tvg-logo="https://resizer.mail.ru/p/4668f477-7030-5f91-98b5-eb83bee90928/AQACGpiikHYQYPdstYI04HLGz_N0SOxeO8Y8Q0ZNlkVHbVlyGbA097iHVSidZ7Ks7DiZZzJcKAKMT-jtfTIUZRq49Yw.png" tvg-name=".black"  group-title="Movie",Sony Turbo
 http://194.9.27.164:8108/play/Sony_Turbo/index.m3u8
-#EXTINF:-1, tvg-id="SONY Sci-Fi" tvg-logo="http://epg.it999.ru/img/516.png" tvg-name=".sci-fi"  group-title="Movie",Sci-Fi
+#EXTINF:-1, tvg-id="SONY Sci-Fi" tvg-logo="http://epg.it999.ru/img/516.png" tvg-name=".sci-fi"  group-title="Movie",Sci-Fi 
 http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8  
