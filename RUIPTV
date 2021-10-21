@@ -50,7 +50,7 @@ http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 #EXTINF:-1, tvg-id="Paramount Comedy Russia HD" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy Russia HD"  group-title="Movie",Paramount Comedy Russia HD
 http://37.17.12.119:8904/play/a00g
 
-#EXTINF:-1, tvg-id="Paramount Comedy Russia" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy Russia HD"  group-title="Movie",Paramount Comedy Russia HD
+#EXTINF:-1, tvg-id="Paramount Comedy Russia" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy"  group-title="Movie",Paramount Comedy
 http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Киноужас HD"  group-title="Movie",Киноужас HD
