@@ -67,3 +67,6 @@ https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:-1, tvg-id="Киносерия" tvg-logo="New Logo" tvg-name="Киносерия"  group-title="Movie",Киносерия
 http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
+
+#EXTINF:-1, tvg-id="Романтичное HD" tvg-logo="https://resizer.mail.ru/p/01def78e-9679-5aac-81b1-40e6e6ae55c8/dpr:200/AAAC2a7ThWHnbjA4rXpWYawloYwghiAtK5p43oxW8laK1mwtYAVu5O9FoKJX73fNfnyC74V41JpCHtPlJ0rqIFxqBdM.png" tvg-name="Романтичное HD"  group-title="Movie",Романтичное HD
+http://50.7.161.20:8081/505/tracks-1,2/index.m3u8?wmsAuthSign=1634860824p82i06i032i88S1f0fe0a7223bd2f102cc2cceb160ff95
