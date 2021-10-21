@@ -30,9 +30,26 @@
 <icon src="https://resizer.mail.ru/p/17f8bac2-9fb4-5011-96a9-850ff9822833/dpr:200/AQACcuPxh24nPnc26sqW7sodcVmU_zxXVrERvgrOliTY_BsuJwlc3-xek4i_gauOwCMPE3QqUHSOEy1gTZOTeojK8dY.png" />
 <url>http://www.tv.mail.ru</url>
 </channel>
-<programme start="20211021130000 +0300" stop="20211021142500 +0300" channel="Страшное HD">
-<title lang="ru">Страна призраков</title>
-</programme>
+<channel id="Комедийное HD">
+<display-name lang="ru">Комедийное HD</display-name>
+<icon src="https://resizer.mail.ru/p/17a9a4fe-19ed-5cb9-9707-9cded8101344/dpr:200/AAACxzrxU3rH8gVrIMEZvQo82RVuORMYh9xAlXYS8P2oFaS1Qp-Dmv4TtLAzhMVD2VnPPnNNwo0pMjrN1ru15Wlhg_I.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Шокирующее HD">
+<display-name lang="ru">Шокирующее HD</display-name>
+<icon src="https://resizer.mail.ru/p/48320ca9-1f6d-5365-938b-0ff801946623/dpr:200/AAACJti04guJY_DuVfikqSPV3K8DttcA2g6Jdv3_P1x6Q4V9KfnI8zdcWdLwlZMrYyVWR0MX8Z7VZzUzFpervGlzFKk.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Amedia Hit HD">
+<display-name lang="ru">Amedia Hit HD</display-name>
+<icon src="https://resizer.mail.ru/p/7c5b0af5-8bd1-5997-8954-d8269fac8cd3/dpr:200/AQACx6h6Hl_Bf5fvAHLjBMY-s3CpyrMbME4TLCB_loBSFkBGdtz-ijChkFHS4SLXwzBaQfGh4YSk9I-ItpaWjAYS0V0.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Amedia Premium HD">
+<display-name lang="ru">Amedia Premium HD</display-name>
+<icon src="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/dpr:200/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
 <programme start="20211021142500 +0300" stop="20211021155500 +0300" channel="Страшное HD">
 <title lang="ru">Экстрасенс 2. Лабиринты разума</title>
 </programme>
@@ -59,9 +76,6 @@
 </programme>
 <programme start="20211022023000 +0300" stop="20211022035500 +0300" channel="Страшное HD">
 <title lang="ru">Бугимен-2</title>
-</programme>
-<programme start="20211021134000 +0300" stop="20211021143000 +0300" channel="Fox Life HD">
-<title lang="ru">Касл</title>
 </programme>
 <programme start="20211021143000 +0300" stop="20211021152000 +0300" channel="Fox Life HD">
 <title lang="ru">Касл</title>
@@ -129,15 +143,6 @@
 <programme start="20211022034000 +0300" stop="20211022042500 +0300" channel="Fox Life HD">
 <title lang="ru">Анатомия страсти</title>
 </programme>
-<programme start="20211021133000 +0300" stop="20211021140000 +0300" channel="ТНТ4">
-<title lang="ru">Универ</title>
-</programme>
-<programme start="20211021140000 +0300" stop="20211021143000 +0300" channel="ТНТ4">
-<title lang="ru">Универ</title>
-</programme>
-<programme start="20211021143000 +0300" stop="20211021150000 +0300" channel="ТНТ4">
-<title lang="ru">Универ</title>
-</programme>
 <programme start="20211021150000 +0300" stop="20211021153000 +0300" channel="ТНТ4">
 <title lang="ru">Универ</title>
 </programme>
@@ -198,9 +203,6 @@
 <programme start="20211022030000 +0300" stop="20211022040000 +0300" channel="ТНТ4">
 <title lang="ru">Убойная лига</title>
 </programme>
-<programme start="20211021132000 +0300" stop="20211021143000 +0300" channel="SONY ТВ HD">
-<title lang="ru">Правила моей кухни</title>
-</programme>
 <programme start="20211021143000 +0300" stop="20211021152500 +0300" channel="SONY ТВ HD">
 <title lang="ru">Аббатство Даунтон</title>
 </programme>
@@ -255,12 +257,6 @@
 <programme start="20211022031000 +0300" stop="20211022040000 +0300" channel="SONY ТВ HD">
 <title lang="ru">Амнезия</title>
 </programme>
-<programme start="20211021130500 +0300" stop="20211021135500 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
-<programme start="20211021135500 +0300" stop="20211021144000 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
 <programme start="20211021144000 +0300" stop="20211021155000 +0300" channel="Sony Turbo">
 <title lang="ru">Топ Гир</title>
 </programme>
@@ -296,9 +292,6 @@
 </programme>
 <programme start="20211022020500 +0300" stop="20211022034000 +0300" channel="Sony Turbo">
 <title lang="ru">Обитель зла 4</title>
-</programme>
-<programme start="20211021125500 +0300" stop="20211021145500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Крадущийся тигр, затаившийся дракон</title>
 </programme>
 <programme start="20211021145500 +0300" stop="20211021155000 +0300" channel="SONY Sci-Fi">
 <title lang="ru">Доктор Кто</title>
@@ -347,5 +340,149 @@
 </programme>
 <programme start="20211022031500 +0300" stop="20211022040500 +0300" channel="SONY Sci-Fi">
 <title lang="ru">12 обезьян</title>
+</programme>
+<programme start="20211021134500 +0300" stop="20211021151000 +0300" channel="Комедийное HD">
+<title lang="ru">Призрачный патруль</title>
+</programme>
+<programme start="20211021151000 +0300" stop="20211021163000 +0300" channel="Комедийное HD">
+<title lang="ru">Охотники на демонов</title>
+</programme>
+<programme start="20211021163000 +0300" stop="20211021180000 +0300" channel="Комедийное HD">
+<title lang="ru">Пушки Акимбо</title>
+</programme>
+<programme start="20211021180000 +0300" stop="20211021195500 +0300" channel="Комедийное HD">
+<title lang="ru">Кадры</title>
+</programme>
+<programme start="20211021195500 +0300" stop="20211021211500 +0300" channel="Комедийное HD">
+<title lang="ru">Полицейская академия 7</title>
+</programme>
+<programme start="20211021211500 +0300" stop="20211021224500 +0300" channel="Комедийное HD">
+<title lang="ru">Однажды в Ирландии</title>
+</programme>
+<programme start="20211021224500 +0300" stop="20211022001500 +0300" channel="Комедийное HD">
+<title lang="ru">Большая жратва</title>
+</programme>
+<programme start="20211022001500 +0300" stop="20211022015000 +0300" channel="Комедийное HD">
+<title lang="ru">Папаши без вредных привычек</title>
+</programme>
+<programme start="20211022015000 +0300" stop="20211022034500 +0300" channel="Комедийное HD">
+<title lang="ru">Инструкции не прилагаются</title>
+</programme>
+<programme start="20211021131500 +0300" stop="20211021151000 +0300" channel="Шокирующее HD">
+<title lang="ru">Блэйд 2</title>
+</programme>
+<programme start="20211021151000 +0300" stop="20211021170000 +0300" channel="Шокирующее HD">
+<title lang="ru">Блэйд 3</title>
+</programme>
+<programme start="20211021170000 +0300" stop="20211021184000 +0300" channel="Шокирующее HD">
+<title lang="ru">От заката до рассвета</title>
+</programme>
+<programme start="20211021184000 +0300" stop="20211021201000 +0300" channel="Шокирующее HD">
+<title lang="ru">Кукла</title>
+</programme>
+<programme start="20211021201000 +0300" stop="20211021213000 +0300" channel="Шокирующее HD">
+<title lang="ru">Кукла 2</title>
+</programme>
+<programme start="20211021213000 +0300" stop="20211021225000 +0300" channel="Шокирующее HD">
+<title lang="ru">Пираньи 3D</title>
+</programme>
+<programme start="20211021225000 +0300" stop="20211022001000 +0300" channel="Шокирующее HD">
+<title lang="ru">Пираньи 3DD</title>
+</programme>
+<programme start="20211022001000 +0300" stop="20211022010000 +0300" channel="Шокирующее HD">
+<title lang="ru">Касл-Рок</title>
+</programme>
+<programme start="20211022010000 +0300" stop="20211022023500 +0300" channel="Шокирующее HD">
+<title lang="ru">Один пропущенный звонок</title>
+</programme>
+<programme start="20211022023500 +0300" stop="20211022040500 +0300" channel="Шокирующее HD">
+<title lang="ru">Кукла</title>
+</programme>
+<programme start="20211021145000 +0300" stop="20211021170000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Лжец, Великий и Ужасный</title>
+</programme>
+<programme start="20211021170000 +0300" stop="20211021173000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211021173000 +0300" stop="20211021180500 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211021180500 +0300" stop="20211021184000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211021184000 +0300" stop="20211021193000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Безумцы</title>
+</programme>
+<programme start="20211021193000 +0300" stop="20211021202000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Безумцы</title>
+</programme>
+<programme start="20211021202000 +0300" stop="20211021211000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Лонгмайр</title>
+</programme>
+<programme start="20211021211000 +0300" stop="20211021220000 +0300" channel="Amedia Hit HD">
+<title lang="ru">По волчьим законам</title>
+</programme>
+<programme start="20211021220000 +0300" stop="20211021230000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Мистер Мерседес</title>
+</programme>
+<programme start="20211021230000 +0300" stop="20211022010500 +0300" channel="Amedia Hit HD">
+<title lang="ru">Коммивояжер</title>
+</programme>
+<programme start="20211022010500 +0300" stop="20211022013500 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211022013500 +0300" stop="20211022020500 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211022020500 +0300" stop="20211022024000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Девочки</title>
+</programme>
+<programme start="20211022024000 +0300" stop="20211022033000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Безумцы</title>
+</programme>
+<programme start="20211022033000 +0300" stop="20211022042000 +0300" channel="Amedia Hit HD">
+<title lang="ru">Безумцы</title>
+</programme>
+<programme start="20211021150000 +0300" stop="20211021160000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Наследники</title>
+</programme>
+<programme start="20211021160000 +0300" stop="20211021170000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Наследники</title>
+</programme>
+<programme start="20211021170000 +0300" stop="20211021182000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Массовое похищение в Чибоке</title>
+</programme>
+<programme start="20211021182000 +0300" stop="20211021184500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Последний паром</title>
+</programme>
+<programme start="20211021184500 +0300" stop="20211021193500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Чепелуэйт</title>
+</programme>
+<programme start="20211021193500 +0300" stop="20211021200500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Виновная сторона</title>
+</programme>
+<programme start="20211021200500 +0300" stop="20211021210500 +0300" channel="Amedia Premium HD">
+<title lang="ru">В поисках Аляски</title>
+</programme>
+<programme start="20211021210500 +0300" stop="20211021220000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Американские боги</title>
+</programme>
+<programme start="20211021220000 +0300" stop="20211021230000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Семья черной мафии</title>
+</programme>
+<programme start="20211021230000 +0300" stop="20211021232000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Призраки</title>
+</programme>
+<programme start="20211021232000 +0300" stop="20211022011500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Магазинные воришки</title>
+</programme>
+<programme start="20211022011500 +0300" stop="20211022023500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Массовое похищение в Чибоке</title>
+</programme>
+<programme start="20211022023500 +0300" stop="20211022032500 +0300" channel="Amedia Premium HD">
+<title lang="ru">Семья черной мафии</title>
+</programme>
+<programme start="20211022032500 +0300" stop="20211022035000 +0300" channel="Amedia Premium HD">
+<title lang="ru">Призраки</title>
 </programme>
 </tv>
