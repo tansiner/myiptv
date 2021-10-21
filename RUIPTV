@@ -2,6 +2,9 @@
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
 http://37.17.12.119:8904/play/a00g
 
+#EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
+http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+
 #EXTINF:-1, tvg-id="Fox Life HD" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
 http://46.34.209.243:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 
