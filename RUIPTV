@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/tansiner/myiptv/main/RUEPG"
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
-http://37.17.12.119:8904/play/a00g
+http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
 
 #EXTINF:-1, tvg-id="Fox Life HD" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
 http://46.34.209.243:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
@@ -31,27 +31,24 @@ http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2"  group-title="Movie",Amedia 2
 http://194.9.27.164:8109/play/A2/index.m3u8
- 
+
 #EXTINF:-1, tvg-id="Amedia Hit" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-name="Amedia Hit HD"  group-title="Movie",Amedia Hit HD
 http://194.9.27.164:8109/play/AMEDIA_HIT/index.m3u8
 
 #EXTINF:-1, tvg-id="Amedia Premium HD" tvg-logo="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" tvg-name="Amedia Premium HD"  group-title="Movie",Amedia Premium HD
 http://109.239.128.126:8080/amedia_premium/tracks-v2a1/mono.m3u8
 
-#EXTINF:68, tvg-id="TV1000" tvg-logo="http://epg.it999.ru/img/4062.png" tvg-name="TV1000"  group-title="Movie",TV1000
+#EXTINF:-1, tvg-id="TV1000" tvg-logo="http://epg.it999.ru/img/4062.png" tvg-name="TV1000"  group-title="Movie",TV1000
 http://dmitry-tv.ml/hls/CH_TV1000.m3u8
 
-#EXTINF:58, tvg-id="ViP Megahit" tvg-logo="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" tvg-name="VIP Megahit"  group-title="Movie",VIP Megahit
+#EXTINF:-1, tvg-id="ViP Megahit" tvg-logo="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" tvg-name="VIP Megahit"  group-title="Movie",VIP Megahit
 http://iptv.prosto.tv:7000/ch43/video.m3u8
 
-#EXTINF:67, tvg-id="ViP Serial" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="ViP Serial"  group-title="Movie",ViP Serial
+#EXTINF:-1, tvg-id="ViP Serial" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="ViP Serial"  group-title="Movie",ViP Serial
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 
 #EXTINF:-1, tvg-id="Paramount Comedy Russia HD" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy Russia HD"  group-title="Movie",Paramount Comedy Russia HD
 http://37.17.12.119:8904/play/a00g
-
-#EXTINF:-1, tvg-id="Paramount Comedy Russia" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy"  group-title="Movie",Paramount Comedy
-http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Киноужас HD"  group-title="Movie",Киноужас HD
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
@@ -65,4 +62,8 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1, tvg-id="Кинохит" tvg-logo="https://resizer.mail.ru/p/2a64ac38-423d-5829-afa2-d82d08f0b5b1/AAACJvV8KwFl7FD0_8AUOULk6ekZ1htgPrADYPz4CIfxhMYhQaUUrjRLwmUfMqEea4dXndtV7nyLMjxa8LyPJ6nd_Uc.png" tvg-name="Кинохит"  group-title="Movie",Кинохит
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
+#EXTINF:-1, tvg-id="Киномикс" tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Кинокомедия"  group-title="Movie",Кинокомедия
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
+#EXTINF:-1, tvg-id="Киносерия" tvg-logo="New Logo" tvg-name="Киносерия"  group-title="Movie",Киносерия
+http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
