@@ -2,9 +2,6 @@
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
 http://37.17.12.119:8904/play/a00g
 
-#EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
-http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-
 #EXTINF:-1, tvg-id="Fox Life HD" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
 http://46.34.209.243:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 
@@ -52,6 +49,9 @@ http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 
 #EXTINF:-1, tvg-id="Paramount Comedy Russia HD" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy Russia HD"  group-title="Movie",Paramount Comedy Russia HD
 http://37.17.12.119:8904/play/a00g
+
+#EXTINF:-1, tvg-id="Paramount Comedy Russia" tvg-logo="https://resizer.mail.ru/p/1e918bb8-9a46-52db-a3c5-a87e527aa9a5/AAACdcRE4CE7JZyGV3WqcZfEvTz2efbOt5NnQsjT6RrfAbOCmt5Q2_PWSDvUsUAbswCUZ24X-lwkURxD-91jjl7E234.png" tvg-name="Paramount Comedy Russia HD"  group-title="Movie",Paramount Comedy Russia HD
+http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Киноужас HD"  group-title="Movie",Киноужас HD
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
