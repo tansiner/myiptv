@@ -26,13 +26,23 @@ http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1, tvg-id="Шокирующее HD" tvg-logo="http://epg.cdntv.online/img/905.png" tvg-name="Шокирующее HD"  group-title="Movie",Шокирующее HD
 http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
 
-#EXTINF:11, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1 HD"  group-title="Movie",Amedia 1 HD
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1 HD"  group-title="Movie",Amedia 1 HD
 http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 
-#EXTINF:12, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2"  group-title="Movie",Amedia 2
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2"  group-title="Movie",Amedia 2
 http://194.9.27.164:8109/play/A2/index.m3u8
 
-#EXTINF:13, tvg-id="Amedia Hit" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-name="Amedia Hit HD"  group-title="Movie",Amedia Hit HD
+#EXTINF:-1, tvg-id="Amedia Hit" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-name="Amedia Hit HD"  group-title="Movie",Amedia Hit HD
 http://194.9.27.164:8109/play/AMEDIA_HIT/index.m3u8
-#EXTINF:16, tvg-id="Amedia Premium HD" tvg-logo="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" tvg-name="Amedia Premium HD"  group-title="Movie",Amedia Premium HD
+
+#EXTINF:-1, tvg-id="Amedia Premium HD" tvg-logo="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" tvg-name="Amedia Premium HD"  group-title="Movie",Amedia Premium HD
 http://109.239.128.126:8080/amedia_premium/tracks-v2a1/mono.m3u8
+
+#EXTINF:68, tvg-id="TV1000" tvg-logo="http://epg.it999.ru/img/4062.png" tvg-name="TV1000"  group-title="Movie",TV1000
+http://dmitry-tv.ml/hls/CH_TV1000.m3u8
+
+#EXTINF:58, tvg-id="ViP Megahit" tvg-logo="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" tvg-name="VIP Megahit"  group-title="Movie",VIP Megahit
+http://iptv.prosto.tv:7000/ch43/video.m3u8
+
+#EXTINF:67, tvg-id="ViP Serial" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="ViP Serial"  group-title="Movie",ViP Serial
+http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
