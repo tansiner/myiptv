@@ -1,13 +1,39 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/tansiner/myiptv/main/RUEPG"
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
 http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
+
 #EXTINF:-1, tvg-id="Fox Life HD" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
 http://46.34.209.243:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
+
 #EXTINF:-1, tvg-id="ТНТ4 HD" tvg-logo="https://resizer.mail.ru/p/67c822bd-d3d9-5ff3-a8fb-9ac9a1498051/AQACNm-XygjgjYYN4Mk2ob2lNgk0XQnr8f-svBWewqbHLhjjfd-NP5MTvgw81oKom4T4vXHay4mdRCJJ1TQ3tz9t3KI.png" tvg-name="ТНТ4 HD"  group-title="Movie",ТНТ4 HD
 http://85.112.114.11:8088/udp/238.2.61.243:1234
+
 #EXTINF:-1, tvg-id="SONY ТВ HD" tvg-logo="https://resizer.mail.ru/p/a27eed55-5838-599b-a249-1322fffe08c7/AQACuEodeNazWlZnsvU4W9cWPbVWQX1reC2apV5YJVYDbonUi9n4DobM_C7Uf64t6_T-P9IH3m_-6I4t7wCxh3CAkPY.png" tvg-name="Sony Channel HD"  group-title="Movie",Sony Channel HD
 http://194.9.27.164:8110/play/SONY_CHANNEL_HD/index.m3u8
+
 #EXTINF:-1, tvg-id="Sony Turbo" tvg-logo="https://resizer.mail.ru/p/4668f477-7030-5f91-98b5-eb83bee90928/AQACGpiikHYQYPdstYI04HLGz_N0SOxeO8Y8Q0ZNlkVHbVlyGbA097iHVSidZ7Ks7DiZZzJcKAKMT-jtfTIUZRq49Yw.png" tvg-name="Sony Turbo"  group-title="Movie",Sony Turbo
 http://194.9.27.164:8108/play/Sony_Turbo/index.m3u8
+
 #EXTINF:-1, tvg-id="SONY Sci-Fi" tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sci-Fi"  group-title="Movie",Sci-Fi
-http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8 
+http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
+
+#EXTINF:-1, tvg-id="FOX HD" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD"  group-title="Movie",Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+
+#EXTINF:-1, tvg-id="Комедийное HD" tvg-logo="http://epg.cdntv.online/img/906.png" tvg-name="Комедийное HD"  group-title="Movie",Комедийное HD
+http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
+
+#EXTINF:-1, tvg-id="Шокирующее HD" tvg-logo="http://epg.cdntv.online/img/905.png" tvg-name="Шокирующее HD"  group-title="Movie",Шокирующее HD
+http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
+
+#EXTINF:11, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1 HD"  group-title="Movie",Amedia 1 HD
+http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+
+#EXTINF:12, tvg-id="New EPG" tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2"  group-title="Movie",Amedia 2
+http://194.9.27.164:8109/play/A2/index.m3u8
+
+#EXTINF:13, tvg-id="Amedia Hit" tvg-logo="http://epg.it999.ru/img/3069.png" tvg-name="Amedia Hit HD"  group-title="Movie",Amedia Hit HD
+http://194.9.27.164:8109/play/AMEDIA_HIT/index.m3u8
+
+#EXTINF:16, tvg-id="Amedia Premium HD" tvg-logo="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" tvg-name="Amedia Premium HD"  group-title="Movie",Amedia Premium HD
+http://109.239.128.126:8080/amedia_premium/tracks-v2a1/mono.m3u8
