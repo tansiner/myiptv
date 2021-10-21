@@ -80,7 +80,7 @@ https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1, tvg-id="Комедийное HD" tvg-logo="http://epg.cdntv.online/img/906.png" tvg-name="Комедийное HD"  group-title="Movie",Комедийное HD
 http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
 
-#EXTINF:-1, tvg-id="Настоящее Страшное Телевидение" tvg-logo="http://telik.online/images/nst_tv.png" tvg-name="НСТ"  group-title="Movie",НСТ
+#EXTINF:-1, tvg-id="Настоящее Страшное Телевидение" tvg-logo="https://resizer.mail.ru/p/82740131-f21e-5a02-9536-cc157fabb45f/dpr:200/AQACx-pthn5wzsqMz_biuPqIiKbSC_2A9fXy9acIH6XrZ7vFozTy_SNCqXXc_suYWZHJ2iPVx6g2hFue9Ws2EdpE_qE.png" tvg-name="НСТ"  group-title="Movie",НСТ
 http://91.221.201.2:7006/play/a006/index.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1, tvg-id="Остросюжетное HD" tvg-logo="http://telik.online/images/ostrosyuzhetnoe-hd.png" tvg-name="Остросюжетное HD"  group-title="Movie",Остросюжетное HD
