@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus" generator-info-url="http://www.webgrabplus.com">
+<channel id="Страшное HD">
+<display-name>Страшное HD</display-name>
+</channel>
+<programme start="20211021075500 +0300" stop="20211021094500 +0300" channel="Страшное HD">
+<title lang="ru">Последний дом слева</title>
+</programme>
+<programme start="20211021094500 +0300" stop="20211021112500 +0300" channel="Страшное HD">
+<title lang="ru">Экстрасенс</title>
+</programme>
+<programme start="20211021112500 +0300" stop="20211021130000 +0300" channel="Страшное HD">
+<title lang="ru">Похищенная</title>
+</programme>
+<programme start="20211021130000 +0300" stop="20211021142500 +0300" channel="Страшное HD">
+<title lang="ru">Страна призраков</title>
+</programme>
+<programme start="20211021142500 +0300" stop="20211021155500 +0300" channel="Страшное HD">
+<title lang="ru">Экстрасенс 2. Лабиринты разума</title>
+</programme>
+<programme start="20211021155500 +0300" stop="20211021171500 +0300" channel="Страшное HD">
+<title lang="ru">Кровать мертвецов</title>
+</programme>
+<programme start="20211021171500 +0300" stop="20211021183500 +0300" channel="Страшное HD">
+<title lang="ru">Охотники на ведьм</title>
+</programme>
+<programme start="20211021183500 +0300" stop="20211021203000 +0300" channel="Страшное HD">
+<title lang="ru">Мгла</title>
+</programme>
+<programme start="20211021203000 +0300" stop="20211021220500 +0300" channel="Страшное HD">
+<title lang="ru">Дантист 2</title>
+</programme>
+<programme start="20211021220500 +0300" stop="20211021234000 +0300" channel="Страшное HD">
+<title lang="ru">Кловерфилд, 10</title>
+</programme>
+<programme start="20211021234000 +0300" stop="20211022010500 +0300" channel="Страшное HD">
+<title lang="ru">Цунами 3D</title>
+</programme>
+<programme start="20211022010500 +0300" stop="20211022023000 +0300" channel="Страшное HD">
+<title lang="ru">Бугимен</title>
+</programme>
+<programme start="20211022023000 +0300" stop="20211022035500 +0300" channel="Страшное HD">
+<title lang="ru">Бугимен-2</title>
+</programme>
+</tv>
