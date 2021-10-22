@@ -150,6 +150,11 @@
     <icon src="https://resizer.mail.ru/p/b55413f7-bd31-50f6-9354-6d2fc9c01f54/dpr:200/AAACcBFe5vQb6EG_qzNMDN-vn3ei3THkQJX4_80GuivW-fR3U4A-ksSkA4-mnDijXgbQVpb9bNh-9KPlVZT9B5wfUjg.png" />
     <url>http://www.tv.mail.ru</url>
   </channel>
+    <channel id="Русская ночь">
+    <display-name lang="ru">Русская ночь</display-name>
+    <icon src="https://resizer.mail.ru/p/25902772-cb27-583a-b556-d56d51ee3ca4/dpr:200/AAACNghUmIPImO55XBfecyZnWsusjcCxMqt9_2RCn8ejLTsTZlEjjFFoPCkan-Aq60iSmbJlTwzK1EugwCVUE13M3rA.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
   <programme start="20211022113000 +0300" stop="20211022115500 +0300" channel="Fox Life HD">
     <title lang="ru">Благослови этот бардак</title>
     <sub-title lang="ru">Визит</sub-title>
@@ -1981,5 +1986,69 @@
   <programme start="20211023030500 +0300" stop="20211023035000 +0300" channel="Романтичное HD">
     <title lang="ru">Хозяйка судьбы</title>
     <desc lang="ru">Мария ду Карму хочет серьезно поговорить с Режиналду. Режиналду предлагает ей поговорить при детях, но она отказывается. Барон и Лаура довольны меню Вириату. Мария Эдуарда решает не подниматься в квартиру барона потому, что Жизела сообщает ей, что нужно подписать контракт для реализации одного проекта. Режиналду говорит, что женится на Вивиани. Мария ду Карму требует, чтобы он рассказал об этом детям. Кресилда говорит Леандру, что Мария ду Карму хочет собрать всю семью. Налва хочет знать, будет ли Вириату присутствовать на собрании. Леандру интересуется, почему Налва спрашивает о его брате.</desc>
+  </programme>
+    <programme start="20211022163000 +0300" stop="20211022170000 +0300" channel="Русская ночь">
+    <title lang="ru">Маришка</title>
+  </programme>
+  <programme start="20211022170000 +0300" stop="20211022171500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211022171500 +0300" stop="20211022184000 +0300" channel="Русская ночь">
+    <title lang="ru">Пора закрывать</title>
+  </programme>
+  <programme start="20211022184000 +0300" stop="20211022185500 +0300" channel="Русская ночь">
+    <title lang="ru">Опытные киски-2</title>
+  </programme>
+  <programme start="20211022185500 +0300" stop="20211022191000 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211022191000 +0300" stop="20211022205000 +0300" channel="Русская ночь">
+    <title lang="ru">Сорокалетняя. Воспитание моей юной соседки</title>
+    <desc lang="ru">18-летняя Луна влюблена в своего бойфренда Бена. Но в сексе ей еще многому предстоит научиться и этот недостаток опыта заставляет ее чувствовать себя неуверенно.</desc>
+  </programme>
+  <programme start="20211022205000 +0300" stop="20211022211000 +0300" channel="Русская ночь">
+    <title lang="ru">Ненасытная госпожа</title>
+  </programme>
+  <programme start="20211022211000 +0300" stop="20211022212500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211022212500 +0300" stop="20211022223000 +0300" channel="Русская ночь">
+    <title lang="ru">Межрасовый секс с молодыми девушками 6</title>
+    <desc lang="ru">Фильм фокусируется на самом страстном межрасовом сексе, снятом в потрясающих местах.</desc>
+  </programme>
+  <programme start="20211022223000 +0300" stop="20211022224500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211022224500 +0300" stop="20211022233000 +0300" channel="Русская ночь">
+    <title lang="ru">Модели нижнего белья</title>
+    <desc lang="ru">Эротические фантазии и страстный секс моделей нижнего белья.</desc>
+  </programme>
+  <programme start="20211022233000 +0300" stop="20211022234500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211022234500 +0300" stop="20211023000000 +0300" channel="Русская ночь">
+    <title lang="ru">Мои Валентинки</title>
+  </programme>
+  <programme start="20211023000000 +0300" stop="20211023001500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211023001500 +0300" stop="20211023014000 +0300" channel="Русская ночь">
+    <title lang="ru">Любовь слепа</title>
+  </programme>
+  <programme start="20211023014000 +0300" stop="20211023015500 +0300" channel="Русская ночь">
+    <title lang="ru">Чистая страсть-2</title>
+  </programme>
+  <programme start="20211023015500 +0300" stop="20211023021000 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
+  </programme>
+  <programme start="20211023021000 +0300" stop="20211023031500 +0300" channel="Русская ночь">
+    <title lang="ru">Обнаженная</title>
+  </programme>
+  <programme start="20211023031500 +0300" stop="20211023041000 +0300" channel="Русская ночь">
+    <title lang="ru">Белая коробка</title>
+    <desc lang="ru">Четыре истории для взрослых, откроют вам мир сексуальных фантазий и удовольствия.</desc>
+  </programme>
+  <programme start="20211023041000 +0300" stop="20211023042500 +0300" channel="Русская ночь">
+    <title lang="ru">Мисс Русская Ночь-2021</title>
   </programme>
 </tv>
