@@ -12,10 +12,10 @@ http://194.9.27.164:8109/play/AMEDIA_HIT/index.m3u8
 #EXTINF:-1, tvg-id="Amedia Premium HD" tvg-logo="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" tvg-name="Amedia Premium HD"  group-title="Movie",Amedia Premium HD
 http://109.239.128.126:8080/amedia_premium/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="FOX" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="FOX"  group-title="Movie",FOX
+#EXTINF:-1, tvg-id="Fox" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="FOX"  group-title="Movie",Fox
 http://50.7.222.90:8081/fox/tracks-1,2/index.m3u8?wmsAuthSign=c489ca42d7a63a1f35501eb0b0b56aad-1634921824-82i06i032i88
 
-#EXTINF:-1, tvg-id="Fox" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
+#EXTINF:-1, tvg-id="xxx" tvg-logo="https://dvb.by/sources/logos/1371.png" tvg-name="xxx"  group-title="Movie",xxx
 http://46.34.209.243:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 
 #EXTINF:-1, tvg-id="Paramount Channel" tvg-logo="https://resizer.mail.ru/p/d787599b-39da-5e00-8435-70e5fa2d26cb/dpr:200/AAACYQWqoCys9xWm7cN5cVf-6fCqUG_Z3i64b_12G2sT2Nz_y5hyZC84_gnGSoBu4Q_ayZZpitasI2OAX3J9sD2lQT4.png" tvg-name="Paramount Channel"  group-title="Movie",Paramount Channel
