@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 <channel id="Fox Life HD">
 <display-name lang="ru">Fox Life HD</display-name>
 <icon src="https://resizer.mail.ru/p/6c098478-a5ad-563b-b67b-c553f1c2471d/dpr:200/AAACPJ4zPHoalOYgLr2pmVSYmbyf6gQgzFBaOXad6XiLijBZ0qRafmX38WBL6zo4cMGpV1Pw7nmxPQQ4_qYpflBnHXc.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="SONY ТВ">
+<display-name lang="ru">SONY ТВ</display-name>
+<icon src="https://resizer.mail.ru/p/a27eed55-5838-599b-a249-1322fffe08c7/dpr:200/AQACuEodeNazWlZnsvU4W9cWPbVWQX1reC2apV5YJVYDbonUi9n4DobM_C7Uf64t6_T-P9IH3m_-6I4t7wCxh3CAkPY.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="Sony Turbo">
+<display-name lang="ru">Sony Turbo</display-name>
+<icon src="https://resizer.mail.ru/p/4668f477-7030-5f91-98b5-eb83bee90928/dpr:200/AQACGpiikHYQYPdstYI04HLGz_N0SOxeO8Y8Q0ZNlkVHbVlyGbA097iHVSidZ7Ks7DiZZzJcKAKMT-jtfTIUZRq49Yw.png" />
+<url>http://www.tv.mail.ru</url>
+</channel>
+<channel id="SONY Sci-Fi">
+<display-name lang="ru">SONY Sci-Fi</display-name>
+<icon src="https://resizer.mail.ru/p/17f8bac2-9fb4-5011-96a9-850ff9822833/dpr:200/AQACcuPxh24nPnc26sqW7sodcVmU_zxXVrERvgrOliTY_BsuJwlc3-xek4i_gauOwCMPE3QqUHSOEy1gTZOTeojK8dY.png" />
 <url>http://www.tv.mail.ru</url>
 </channel>
 <programme start="20211022084500 +0300" stop="20211022093000 +0300" channel="Fox Life HD">
@@ -95,5 +110,163 @@
 <programme start="20211023035000 +0300" stop="20211023043500 +0300" channel="Fox Life HD">
 <title lang="ru">Номер 309</title>
 </programme>
-
+<programme start="20211022085500 +0300" stop="20211022095000 +0300" channel="SONY ТВ">
+<title lang="ru">Аббатство Даунтон</title>
+</programme>
+<programme start="20211022095000 +0300" stop="20211022120500 +0300" channel="SONY ТВ">
+<title lang="ru">Разум и чувства</title>
+</programme>
+<programme start="20211022120500 +0300" stop="20211022125000 +0300" channel="SONY ТВ">
+<title lang="ru">Амнезия</title>
+</programme>
+<programme start="20211022125000 +0300" stop="20211022133500 +0300" channel="SONY ТВ">
+<title lang="ru">Проект "Подиум"</title>
+</programme>
+<programme start="20211022133500 +0300" stop="20211022145000 +0300" channel="SONY ТВ">
+<title lang="ru">Правила моей кухни</title>
+</programme>
+<programme start="20211022145000 +0300" stop="20211022154000 +0300" channel="SONY ТВ">
+<title lang="ru">Аббатство Даунтон</title>
+</programme>
+<programme start="20211022154000 +0300" stop="20211022162500 +0300" channel="SONY ТВ">
+<title lang="ru">До смерти красива</title>
+</programme>
+<programme start="20211022162500 +0300" stop="20211022171000 +0300" channel="SONY ТВ">
+<title lang="ru">До смерти красива</title>
+</programme>
+<programme start="20211022171000 +0300" stop="20211022181500 +0300" channel="SONY ТВ">
+<title lang="ru">Правила моей пекарни</title>
+</programme>
+<programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="SONY ТВ">
+<title lang="ru">Проект "Подиум"</title>
+</programme>
+<programme start="20211022190000 +0300" stop="20211022200000 +0300" channel="SONY ТВ">
+<title lang="ru">Правила моей кухни</title>
+</programme>
+<programme start="20211022200000 +0300" stop="20211022215500 +0300" channel="SONY ТВ">
+<title lang="ru">Чудеса с небес</title>
+</programme>
+<programme start="20211022215500 +0300" stop="20211022234500 +0300" channel="SONY ТВ">
+<title lang="ru">Крамер против Крамера</title>
+</programme>
+<programme start="20211022234500 +0300" stop="20211023013000 +0300" channel="SONY ТВ">
+<title lang="ru">Глория Белл</title>
+</programme>
+<programme start="20211023013000 +0300" stop="20211023031000 +0300" channel="SONY ТВ">
+<title lang="ru">50 первых поцелуев</title>
+</programme>
+<programme start="20211022090000 +0300" stop="20211022104000 +0300" channel="Sony Turbo">
+<title lang="ru">Одноклассники 2</title>
+</programme>
+<programme start="20211022104000 +0300" stop="20211022130000 +0300" channel="Sony Turbo">
+<title lang="ru">Каратэ-пацан</title>
+</programme>
+<programme start="20211022130000 +0300" stop="20211022135000 +0300" channel="Sony Turbo">
+<title lang="ru">Мыслить как преступник</title>
+</programme>
+<programme start="20211022135000 +0300" stop="20211022144000 +0300" channel="Sony Turbo">
+<title lang="ru">Мыслить как преступник</title>
+</programme>
+<programme start="20211022144000 +0300" stop="20211022160000 +0300" channel="Sony Turbo">
+<title lang="ru">Топ Гир</title>
+</programme>
+<programme start="20211022160000 +0300" stop="20211022164500 +0300" channel="Sony Turbo">
+<title lang="ru">Новичок</title>
+</programme>
+<programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="Sony Turbo">
+<title lang="ru">Новичок</title>
+</programme>
+<programme start="20211022173000 +0300" stop="20211022181500 +0300" channel="Sony Turbo">
+<title lang="ru">Мыслить как преступник</title>
+</programme>
+<programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="Sony Turbo">
+<title lang="ru">Мыслить как преступник</title>
+</programme>
+<programme start="20211022190000 +0300" stop="20211022201500 +0300" channel="Sony Turbo">
+<title lang="ru">Топ Гир</title>
+</programme>
+<programme start="20211022201500 +0300" stop="20211022210500 +0300" channel="Sony Turbo">
+<title lang="ru">Новичок</title>
+</programme>
+<programme start="20211022210500 +0300" stop="20211022220000 +0300" channel="Sony Turbo">
+<title lang="ru">Новичок</title>
+</programme>
+<programme start="20211022220000 +0300" stop="20211022232500 +0300" channel="Sony Turbo">
+<title lang="ru">Успеть за 30 минут</title>
+</programme>
+<programme start="20211022232500 +0300" stop="20211023001500 +0300" channel="Sony Turbo">
+<title lang="ru">Во все тяжкие</title>
+</programme>
+<programme start="20211023001500 +0300" stop="20211023011000 +0300" channel="Sony Turbo">
+<title lang="ru">Во все тяжкие</title>
+</programme>
+<programme start="20211023011000 +0300" stop="20211023034000 +0300" channel="Sony Turbo">
+<title lang="ru">Девушка с татуировкой дракона</title>
+</programme>
+<programme start="20211022085500 +0300" stop="20211022094500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Звездный крейсер Галактика</title>
+</programme>
+<programme start="20211022094500 +0300" stop="20211022103500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022103500 +0300" stop="20211022113000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022113000 +0300" stop="20211022122000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Тайны Хейвена</title>
+</programme>
+<programme start="20211022122000 +0300" stop="20211022131000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Тайны Хейвена</title>
+</programme>
+<programme start="20211022131000 +0300" stop="20211022150500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Кингсглейв</title>
+</programme>
+<programme start="20211022150500 +0300" stop="20211022155500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022155500 +0300" stop="20211022164500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Тайны Хейвена</title>
+</programme>
+<programme start="20211022173000 +0300" stop="20211022182000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Тайны Хейвена</title>
+</programme>
+<programme start="20211022182000 +0300" stop="20211022191000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Звездный крейсер Галактика</title>
+</programme>
+<programme start="20211022191000 +0300" stop="20211022200000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Звездный крейсер Галактика</title>
+</programme>
+<programme start="20211022200000 +0300" stop="20211022205000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022205000 +0300" stop="20211022214000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Доктор Кто</title>
+</programme>
+<programme start="20211022214000 +0300" stop="20211022223000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">12 обезьян</title>
+</programme>
+<programme start="20211022223000 +0300" stop="20211022232000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">12 обезьян</title>
+</programme>
+<programme start="20211022232000 +0300" stop="20211023001000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Нация Z</title>
+</programme>
+<programme start="20211023001000 +0300" stop="20211023010000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Звездный крейсер Галактика</title>
+</programme>
+<programme start="20211023010000 +0300" stop="20211023014500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Звездный крейсер Галактика</title>
+</programme>
+<programme start="20211023014500 +0300" stop="20211023023000 +0300" channel="SONY Sci-Fi">
+<title lang="ru">Нация Z</title>
+</programme>
+<programme start="20211023023000 +0300" stop="20211023031500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">12 обезьян</title>
+</programme>
+<programme start="20211023031500 +0300" stop="20211023040500 +0300" channel="SONY Sci-Fi">
+<title lang="ru">12 обезьян</title>
+</programme>
 </tv>
