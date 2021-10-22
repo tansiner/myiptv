@@ -54,8 +54,8 @@ http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 #EXTINF:-1, tvg-id="Кино ТВ" tvg-logo="http://telik.online/images/kino_tv.png" tvg-name="Кино ТВ"  group-title="Movie",Кино ТВ
 http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=570e1425009a0bba3ebe43c251f40c25-1634861570-82i06i032i88
 
-#EXTINF:-1, tvg-id="Киномикс" tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Кинокомедия"  group-title="Movie",Кинокомедия
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1, tvg-id="Кинокомедия" tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Кинокомедия"  group-title="Movie",Кинокомедия
+http://109.239.128.126:8080/kinokomedia/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="Киномикс" tvg-logo="http://telik.online/images/kinomiks.png" tvg-name="Киномикс"  group-title="Movie",Киномикс
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
