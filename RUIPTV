@@ -102,8 +102,3 @@ http://50.7.231.220:8081/219/tracks-1,2/index.m3u8?wmsAuthSign=1634863289p82i06i
 #EXTINF:-1, tvg-id="Шокирующее HD" tvg-logo="http://epg.cdntv.online/img/905.png" tvg-name="Шокирующее HD"  group-title="Movie",Шокирующее HD
 http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
 
-#EXTINF:-1, tvg-id="asfd HD" tvg-logo="" tvg-name="asfdasf HD"  group-title="Movie",asfdfdsa HD
-http://127.0.0.1:6878/ace/getstream?id=72e9621e339244842116083df0353159171c6bc1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-
-#EXTINF:-1, tvg-id="Русская ночь" tvg-logo="https://fast.ntvplus.tv/files/image/07/10/28/-channel!r01.png" tvg-name="Русская ночь"  group-title="Movie",Русская ночь
-http://127.0.0.1:6878/ace/getstream?id=72e9621e339244842116083df0353159171c6bc1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
