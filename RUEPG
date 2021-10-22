@@ -1,820 +1,1087 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="Fox Life HD">
-<display-name lang="ru">Fox Life HD</display-name>
-<icon src="https://resizer.mail.ru/p/6c098478-a5ad-563b-b67b-c553f1c2471d/dpr:200/AAACPJ4zPHoalOYgLr2pmVSYmbyf6gQgzFBaOXad6XiLijBZ0qRafmX38WBL6zo4cMGpV1Pw7nmxPQQ4_qYpflBnHXc.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="SONY ТВ">
-<display-name lang="ru">SONY ТВ</display-name>
-<icon src="https://resizer.mail.ru/p/a27eed55-5838-599b-a249-1322fffe08c7/dpr:200/AQACuEodeNazWlZnsvU4W9cWPbVWQX1reC2apV5YJVYDbonUi9n4DobM_C7Uf64t6_T-P9IH3m_-6I4t7wCxh3CAkPY.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Sony Turbo">
-<display-name lang="ru">Sony Turbo</display-name>
-<icon src="https://resizer.mail.ru/p/4668f477-7030-5f91-98b5-eb83bee90928/dpr:200/AQACGpiikHYQYPdstYI04HLGz_N0SOxeO8Y8Q0ZNlkVHbVlyGbA097iHVSidZ7Ks7DiZZzJcKAKMT-jtfTIUZRq49Yw.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="SONY Sci-Fi">
-<display-name lang="ru">SONY Sci-Fi</display-name>
-<icon src="https://resizer.mail.ru/p/17f8bac2-9fb4-5011-96a9-850ff9822833/dpr:200/AQACcuPxh24nPnc26sqW7sodcVmU_zxXVrERvgrOliTY_BsuJwlc3-xek4i_gauOwCMPE3QqUHSOEy1gTZOTeojK8dY.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Комедийное HD">
-<display-name lang="ru">Комедийное HD</display-name>
-<icon src="https://resizer.mail.ru/p/17a9a4fe-19ed-5cb9-9707-9cded8101344/dpr:200/AAACxzrxU3rH8gVrIMEZvQo82RVuORMYh9xAlXYS8P2oFaS1Qp-Dmv4TtLAzhMVD2VnPPnNNwo0pMjrN1ru15Wlhg_I.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Шокирующее HD">
-<display-name lang="ru">Шокирующее HD</display-name>
-<icon src="https://resizer.mail.ru/p/48320ca9-1f6d-5365-938b-0ff801946623/dpr:200/AAACJti04guJY_DuVfikqSPV3K8DttcA2g6Jdv3_P1x6Q4V9KfnI8zdcWdLwlZMrYyVWR0MX8Z7VZzUzFpervGlzFKk.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Страшное HD">
-<display-name lang="ru">Страшное HD</display-name>
-<icon src="https://resizer.mail.ru/p/3ff38bf7-e08a-5a3b-9071-2613a65183b3/dpr:200/AAACJW53QUvg__iJkIcH7aBEA1Ez4o8WEbcd6t8SF6alONlodmUbUail-2CDHOhSdxi-8k_zwqCrKSwsbpuTKF6SOMU.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Настоящее Страшное Телевидение">
-<display-name lang="ru">Настоящее Страшное Телевидение</display-name>
-<icon src="https://resizer.mail.ru/p/82740131-f21e-5a02-9536-cc157fabb45f/dpr:200/AQACx-pthn5wzsqMz_biuPqIiKbSC_2A9fXy9acIH6XrZ7vFozTy_SNCqXXc_suYWZHJ2iPVx6g2hFue9Ws2EdpE_qE.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Остросюжетное HD">
-<display-name lang="ru">Остросюжетное HD</display-name>
-<icon src="https://resizer.mail.ru/p/c2f8532f-a7da-5b12-b24d-98841a697f3c/dpr:200/AAAC6b64YtN_lbnMCZWwh_obdzP_bkTB49K4oqnhG4wmqb7u4-kCWrQd5s4Ul2uMsEEjx4CqBrh9iFelCHR6W8oj6SE.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="А1">
-<display-name lang="ru">А1</display-name>
-<icon src="https://resizer.mail.ru/p/d6406644-e9f0-5944-ba3f-7afc0a47ead0/dpr:200/AQAC147F1gkWPlyZFNqmQbuoUeNqfiZujX-8zslAdqJje4DPQMyp4eE0__RM3GD3Qh89BZVQzAU7VIyzU5qxP5iOQKc.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="А2">
-<display-name lang="ru">А2</display-name>
-<icon src="https://resizer.mail.ru/p/78341c4c-defa-5e6e-bee0-2c778f8de46f/dpr:200/AQACef5bLJKMPK0NaJJuR403K1z0xYfV-bw-7Osw9UrByc4b5UyRSm4ImJ_VcM9iPauf0N00DMRZ3vxGQQhWi1V7VyQ.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Amedia Hit">
-<display-name lang="ru">Amedia Hit</display-name>
-<icon src="https://resizer.mail.ru/p/7c5b0af5-8bd1-5997-8954-d8269fac8cd3/dpr:200/AQACUWU1HlNQmKllH61bKZFCMK2feChxORYcoNgUnHnQsXaj3Ru_IRnn-nRU24NBQLfgxxx1pcpwvJQnNzW1ju13pi8.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Amedia Premium HD">
-<display-name lang="ru">Amedia Premium HD</display-name>
-<icon src="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/dpr:200/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<channel id="Кино ТВ HD">
-<display-name lang="ru">Кино ТВ HD</display-name>
-<icon src="https://resizer.mail.ru/p/83c28e96-1743-5a4b-8b2e-efb8e3828ce5/dpr:200/AQACUJ71KckrGGunSXLpTz5ZYtFrOMPcdMiFEjeWWfY8Fw5dnpF7VWCcXE7W_m1f4OvEQdSM7kOjhtBrmxczr2IO81Q.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
-<programme start="20211022093000 +0300" stop="20211022102000 +0300" channel="Fox Life HD">
-<title lang="ru">Вегетарианская кухня с Джейми Оливером</title>
-</programme>
-<programme start="20211022102000 +0300" stop="20211022104500 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022104500 +0300" stop="20211022111000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022111000 +0300" stop="20211022113000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022113000 +0300" stop="20211022115500 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022115500 +0300" stop="20211022124500 +0300" channel="Fox Life HD">
-<title lang="ru">Чикаго в огне</title>
-</programme>
-<programme start="20211022124500 +0300" stop="20211022134000 +0300" channel="Fox Life HD">
-<title lang="ru">Постучись в мою дверь</title>
-</programme>
-<programme start="20211022134000 +0300" stop="20211022142500 +0300" channel="Fox Life HD">
-<title lang="ru">Касл</title>
-</programme>
-<programme start="20211022142500 +0300" stop="20211022151500 +0300" channel="Fox Life HD">
-<title lang="ru">Касл</title>
-</programme>
-<programme start="20211022151500 +0300" stop="20211022161000 +0300" channel="Fox Life HD">
-<title lang="ru">Это мы</title>
-</programme>
-<programme start="20211022161000 +0300" stop="20211022163000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022163000 +0300" stop="20211022165500 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022165500 +0300" stop="20211022172000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022172000 +0300" stop="20211022175000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211022175000 +0300" stop="20211022183500 +0300" channel="Fox Life HD">
-<title lang="ru">Касл</title>
-</programme>
-<programme start="20211022183500 +0300" stop="20211022192500 +0300" channel="Fox Life HD">
-<title lang="ru">Касл</title>
-</programme>
-<programme start="20211022192500 +0300" stop="20211022201000 +0300" channel="Fox Life HD">
-<title lang="ru">Анатомия страсти</title>
-</programme>
-<programme start="20211022201000 +0300" stop="20211022210000 +0300" channel="Fox Life HD">
-<title lang="ru">Анатомия страсти</title>
-</programme>
-<programme start="20211022210000 +0300" stop="20211022215500 +0300" channel="Fox Life HD">
-<title lang="ru">Постучись в мою дверь</title>
-</programme>
-<programme start="20211022215500 +0300" stop="20211022224000 +0300" channel="Fox Life HD">
-<title lang="ru">Чикаго в огне</title>
-</programme>
-<programme start="20211022224000 +0300" stop="20211022234000 +0300" channel="Fox Life HD">
-<title lang="ru">Кандис Ренуар</title>
-</programme>
-<programme start="20211022234000 +0300" stop="20211023004000 +0300" channel="Fox Life HD">
-<title lang="ru">Кандис Ренуар</title>
-</programme>
-<programme start="20211023004000 +0300" stop="20211023013000 +0300" channel="Fox Life HD">
-<title lang="ru">Постучись в мою дверь</title>
-</programme>
-<programme start="20211023013000 +0300" stop="20211023015000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211023015000 +0300" stop="20211023021500 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211023021500 +0300" stop="20211023023500 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211023023500 +0300" stop="20211023030000 +0300" channel="Fox Life HD">
-<title lang="ru">Благослови этот бардак</title>
-</programme>
-<programme start="20211023030000 +0300" stop="20211023035000 +0300" channel="Fox Life HD">
-<title lang="ru">Номер 309</title>
-</programme>
-<programme start="20211023035000 +0300" stop="20211023043500 +0300" channel="Fox Life HD">
-<title lang="ru">Номер 309</title>
-</programme>
-<programme start="20211022085500 +0300" stop="20211022095000 +0300" channel="SONY ТВ">
-<title lang="ru">Аббатство Даунтон</title>
-</programme>
-<programme start="20211022095000 +0300" stop="20211022120500 +0300" channel="SONY ТВ">
-<title lang="ru">Разум и чувства</title>
-</programme>
-<programme start="20211022120500 +0300" stop="20211022125000 +0300" channel="SONY ТВ">
-<title lang="ru">Амнезия</title>
-</programme>
-<programme start="20211022125000 +0300" stop="20211022133500 +0300" channel="SONY ТВ">
-<title lang="ru">Проект "Подиум"</title>
-</programme>
-<programme start="20211022133500 +0300" stop="20211022145000 +0300" channel="SONY ТВ">
-<title lang="ru">Правила моей кухни</title>
-</programme>
-<programme start="20211022145000 +0300" stop="20211022154000 +0300" channel="SONY ТВ">
-<title lang="ru">Аббатство Даунтон</title>
-</programme>
-<programme start="20211022154000 +0300" stop="20211022162500 +0300" channel="SONY ТВ">
-<title lang="ru">До смерти красива</title>
-</programme>
-<programme start="20211022162500 +0300" stop="20211022171000 +0300" channel="SONY ТВ">
-<title lang="ru">До смерти красива</title>
-</programme>
-<programme start="20211022171000 +0300" stop="20211022181500 +0300" channel="SONY ТВ">
-<title lang="ru">Правила моей пекарни</title>
-</programme>
-<programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="SONY ТВ">
-<title lang="ru">Проект "Подиум"</title>
-</programme>
-<programme start="20211022190000 +0300" stop="20211022200000 +0300" channel="SONY ТВ">
-<title lang="ru">Правила моей кухни</title>
-</programme>
-<programme start="20211022200000 +0300" stop="20211022215500 +0300" channel="SONY ТВ">
-<title lang="ru">Чудеса с небес</title>
-</programme>
-<programme start="20211022215500 +0300" stop="20211022234500 +0300" channel="SONY ТВ">
-<title lang="ru">Крамер против Крамера</title>
-</programme>
-<programme start="20211022234500 +0300" stop="20211023013000 +0300" channel="SONY ТВ">
-<title lang="ru">Глория Белл</title>
-</programme>
-<programme start="20211023013000 +0300" stop="20211023031000 +0300" channel="SONY ТВ">
-<title lang="ru">50 первых поцелуев</title>
-</programme>
-<programme start="20211022090000 +0300" stop="20211022104000 +0300" channel="Sony Turbo">
-<title lang="ru">Одноклассники 2</title>
-</programme>
-<programme start="20211022104000 +0300" stop="20211022130000 +0300" channel="Sony Turbo">
-<title lang="ru">Каратэ-пацан</title>
-</programme>
-<programme start="20211022130000 +0300" stop="20211022135000 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
-<programme start="20211022135000 +0300" stop="20211022144000 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
-<programme start="20211022144000 +0300" stop="20211022160000 +0300" channel="Sony Turbo">
-<title lang="ru">Топ Гир</title>
-</programme>
-<programme start="20211022160000 +0300" stop="20211022164500 +0300" channel="Sony Turbo">
-<title lang="ru">Новичок</title>
-</programme>
-<programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="Sony Turbo">
-<title lang="ru">Новичок</title>
-</programme>
-<programme start="20211022173000 +0300" stop="20211022181500 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
-<programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="Sony Turbo">
-<title lang="ru">Мыслить как преступник</title>
-</programme>
-<programme start="20211022190000 +0300" stop="20211022201500 +0300" channel="Sony Turbo">
-<title lang="ru">Топ Гир</title>
-</programme>
-<programme start="20211022201500 +0300" stop="20211022210500 +0300" channel="Sony Turbo">
-<title lang="ru">Новичок</title>
-</programme>
-<programme start="20211022210500 +0300" stop="20211022220000 +0300" channel="Sony Turbo">
-<title lang="ru">Новичок</title>
-</programme>
-<programme start="20211022220000 +0300" stop="20211022232500 +0300" channel="Sony Turbo">
-<title lang="ru">Успеть за 30 минут</title>
-</programme>
-<programme start="20211022232500 +0300" stop="20211023001500 +0300" channel="Sony Turbo">
-<title lang="ru">Во все тяжкие</title>
-</programme>
-<programme start="20211023001500 +0300" stop="20211023011000 +0300" channel="Sony Turbo">
-<title lang="ru">Во все тяжкие</title>
-</programme>
-<programme start="20211023011000 +0300" stop="20211023034000 +0300" channel="Sony Turbo">
-<title lang="ru">Девушка с татуировкой дракона</title>
-</programme>
-<programme start="20211022085500 +0300" stop="20211022094500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Звездный крейсер Галактика</title>
-</programme>
-<programme start="20211022094500 +0300" stop="20211022103500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022103500 +0300" stop="20211022113000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022113000 +0300" stop="20211022122000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Тайны Хейвена</title>
-</programme>
-<programme start="20211022122000 +0300" stop="20211022131000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Тайны Хейвена</title>
-</programme>
-<programme start="20211022131000 +0300" stop="20211022150500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Кингсглейв</title>
-</programme>
-<programme start="20211022150500 +0300" stop="20211022155500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022155500 +0300" stop="20211022164500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Тайны Хейвена</title>
-</programme>
-<programme start="20211022173000 +0300" stop="20211022182000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Тайны Хейвена</title>
-</programme>
-<programme start="20211022182000 +0300" stop="20211022191000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Звездный крейсер Галактика</title>
-</programme>
-<programme start="20211022191000 +0300" stop="20211022200000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Звездный крейсер Галактика</title>
-</programme>
-<programme start="20211022200000 +0300" stop="20211022205000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022205000 +0300" stop="20211022214000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Доктор Кто</title>
-</programme>
-<programme start="20211022214000 +0300" stop="20211022223000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">12 обезьян</title>
-</programme>
-<programme start="20211022223000 +0300" stop="20211022232000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">12 обезьян</title>
-</programme>
-<programme start="20211022232000 +0300" stop="20211023001000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Нация Z</title>
-</programme>
-<programme start="20211023001000 +0300" stop="20211023010000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Звездный крейсер Галактика</title>
-</programme>
-<programme start="20211023010000 +0300" stop="20211023014500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Звездный крейсер Галактика</title>
-</programme>
-<programme start="20211023014500 +0300" stop="20211023023000 +0300" channel="SONY Sci-Fi">
-<title lang="ru">Нация Z</title>
-</programme>
-<programme start="20211023023000 +0300" stop="20211023031500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">12 обезьян</title>
-</programme>
-<programme start="20211023031500 +0300" stop="20211023040500 +0300" channel="SONY Sci-Fi">
-<title lang="ru">12 обезьян</title>
-</programme>
-<programme start="20211022082500 +0300" stop="20211022100000 +0300" channel="Комедийное HD">
-<title lang="ru">Однажды в Ирландии</title>
-</programme>
-<programme start="20211022100000 +0300" stop="20211022113000 +0300" channel="Комедийное HD">
-<title lang="ru">Большая жратва</title>
-</programme>
-<programme start="20211022113000 +0300" stop="20211022130000 +0300" channel="Комедийное HD">
-<title lang="ru">Случайно беременна</title>
-</programme>
-<programme start="20211022130000 +0300" stop="20211022143500 +0300" channel="Комедийное HD">
-<title lang="ru">Папаши без вредных привычек</title>
-</programme>
-<programme start="20211022143500 +0300" stop="20211022163000 +0300" channel="Комедийное HD">
-<title lang="ru">Инструкции не прилагаются</title>
-</programme>
-<programme start="20211022163000 +0300" stop="20211022180000 +0300" channel="Комедийное HD">
-<title lang="ru">Дежурный папа</title>
-</programme>
-<programme start="20211022180000 +0300" stop="20211022194500 +0300" channel="Комедийное HD">
-<title lang="ru">Слишком крута для тебя</title>
-</programme>
-<programme start="20211022194500 +0300" stop="20211022213000 +0300" channel="Комедийное HD">
-<title lang="ru">Полтора рыцаря</title>
-</programme>
-<programme start="20211022213000 +0300" stop="20211022225000 +0300" channel="Комедийное HD">
-<title lang="ru">Настоящие боссы</title>
-</programme>
-<programme start="20211022225000 +0300" stop="20211023004000 +0300" channel="Комедийное HD">
-<title lang="ru">Та еще парочка</title>
-</programme>
-<programme start="20211023004000 +0300" stop="20211023020000 +0300" channel="Комедийное HD">
-<title lang="ru">Я, снова я и мама</title>
-</programme>
-<programme start="20211023020000 +0300" stop="20211023034000 +0300" channel="Комедийное HD">
-<title lang="ru">Призрачный патруль</title>
-</programme>
-<programme start="20211022085500 +0300" stop="20211022101500 +0300" channel="Шокирующее HD">
-<title lang="ru">Пираньи 3DD</title>
-</programme>
-<programme start="20211022101500 +0300" stop="20211022113500 +0300" channel="Шокирующее HD">
-<title lang="ru">Один пропущенный звонок</title>
-</programme>
-<programme start="20211022113500 +0300" stop="20211022131000 +0300" channel="Шокирующее HD">
-<title lang="ru">Кукла</title>
-</programme>
-<programme start="20211022131000 +0300" stop="20211022142500 +0300" channel="Шокирующее HD">
-<title lang="ru">Кукла 2</title>
-</programme>
-<programme start="20211022142500 +0300" stop="20211022155000 +0300" channel="Шокирующее HD">
-<title lang="ru">Пираньи 3D</title>
-</programme>
-<programme start="20211022155000 +0300" stop="20211022170500 +0300" channel="Шокирующее HD">
-<title lang="ru">Пираньи 3DD</title>
-</programme>
-<programme start="20211022170500 +0300" stop="20211022183000 +0300" channel="Шокирующее HD">
-<title lang="ru">Один пропущенный звонок</title>
-</programme>
-<programme start="20211022183000 +0300" stop="20211022195500 +0300" channel="Шокирующее HD">
-<title lang="ru">Полтергейст</title>
-</programme>
-<programme start="20211022195500 +0300" stop="20211022213000 +0300" channel="Шокирующее HD">
-<title lang="ru">Джиперс Криперс 3</title>
-</programme>
-<programme start="20211022213000 +0300" stop="20211022231500 +0300" channel="Шокирующее HD">
-<title lang="ru">Зеркала</title>
-</programme>
-<programme start="20211022231500 +0300" stop="20211023003500 +0300" channel="Шокирующее HD">
-<title lang="ru">Мы еще здесь</title>
-</programme>
-<programme start="20211023003500 +0300" stop="20211023012500 +0300" channel="Шокирующее HD">
-<title lang="ru">Касл-Рок</title>
-</programme>
-<programme start="20211023012500 +0300" stop="20211023025000 +0300" channel="Шокирующее HD">
-<title lang="ru">Полтергейст</title>
-</programme>
-<programme start="20211023025000 +0300" stop="20211023042500 +0300" channel="Шокирующее HD">
-<title lang="ru">Джиперс Криперс 3</title>
-</programme>
-<programme start="20211022084500 +0300" stop="20211022101000 +0300" channel="Страшное HD">
-<title lang="ru">Страна призраков</title>
-</programme>
-<programme start="20211022101000 +0300" stop="20211022114000 +0300" channel="Страшное HD">
-<title lang="ru">Экстрасенс 2. Лабиринты разума</title>
-</programme>
-<programme start="20211022114000 +0300" stop="20211022131000 +0300" channel="Страшное HD">
-<title lang="ru">Дантист</title>
-</programme>
-<programme start="20211022131000 +0300" stop="20211022144000 +0300" channel="Страшное HD">
-<title lang="ru">Глаз</title>
-</programme>
-<programme start="20211022144000 +0300" stop="20211022161500 +0300" channel="Страшное HD">
-<title lang="ru">Нечто</title>
-</programme>
-<programme start="20211022161500 +0300" stop="20211022173500 +0300" channel="Страшное HD">
-<title lang="ru">Бугимен</title>
-</programme>
-<programme start="20211022173500 +0300" stop="20211022190000 +0300" channel="Страшное HD">
-<title lang="ru">Бугимен-2</title>
-</programme>
-<programme start="20211022190000 +0300" stop="20211022203000 +0300" channel="Страшное HD">
-<title lang="ru">Бугимен-3</title>
-</programme>
-<programme start="20211022203000 +0300" stop="20211022215000 +0300" channel="Страшное HD">
-<title lang="ru">Дом 1000 трупов</title>
-</programme>
-<programme start="20211022215000 +0300" stop="20211022231500 +0300" channel="Страшное HD">
-<title lang="ru">Добро пожаловать в Зомбилэнд</title>
-</programme>
-<programme start="20211022231500 +0300" stop="20211023003500 +0300" channel="Страшное HD">
-<title lang="ru">Катакомбы</title>
-</programme>
-<programme start="20211023003500 +0300" stop="20211023022500 +0300" channel="Страшное HD">
-<title lang="ru">Последний дом слева</title>
-</programme>
-<programme start="20211023022500 +0300" stop="20211023034000 +0300" channel="Страшное HD">
-<title lang="ru">Шоссе смерти</title>
-</programme>
-<programme start="20211022090000 +0300" stop="20211022110000 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Имитатор</title>
-</programme>
-<programme start="20211022110000 +0300" stop="20211022123500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Запрос в друзья</title>
-</programme>
-<programme start="20211022123500 +0300" stop="20211022140000 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Галлоуз Хилл</title>
-</programme>
-<programme start="20211022140000 +0300" stop="20211022154000 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Мрачные небеса</title>
-</programme>
-<programme start="20211022154000 +0300" stop="20211022170500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Всадники апокалипсиса</title>
-</programme>
-<programme start="20211022170500 +0300" stop="20211022183500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Вакансия на жертву</title>
-</programme>
-<programme start="20211022183500 +0300" stop="20211022210000 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Исчезнувшая</title>
-</programme>
-<programme start="20211022210000 +0300" stop="20211022231500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Остров проклятых</title>
-</programme>
-<programme start="20211022231500 +0300" stop="20211023005000 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Багровые реки 2</title>
-</programme>
-<programme start="20211023005000 +0300" stop="20211023021500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Навстречу тьме</title>
-</programme>
-<programme start="20211023021500 +0300" stop="20211023035500 +0300" channel="Настоящее Страшное Телевидение">
-<title lang="ru">Я знаю, кто убил меня</title>
-</programme>
-<programme start="20211022082000 +0300" stop="20211022102000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Вдовы</title>
-</programme>
-<programme start="20211022102000 +0300" stop="20211022120500 +0300" channel="Остросюжетное HD">
-<title lang="ru">Ограбление по-итальянски</title>
-</programme>
-<programme start="20211022120500 +0300" stop="20211022133000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Va-банк</title>
-</programme>
-<programme start="20211022133000 +0300" stop="20211022152500 +0300" channel="Остросюжетное HD">
-<title lang="ru">Джентльмены</title>
-</programme>
-<programme start="20211022152500 +0300" stop="20211022172500 +0300" channel="Остросюжетное HD">
-<title lang="ru">Вдовы</title>
-</programme>
-<programme start="20211022172500 +0300" stop="20211022191000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Ограбление по-итальянски</title>
-</programme>
-<programme start="20211022191000 +0300" stop="20211022203000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Va-банк</title>
-</programme>
-<programme start="20211022203000 +0300" stop="20211022222500 +0300" channel="Остросюжетное HD">
-<title lang="ru">Джентльмены</title>
-</programme>
-<programme start="20211022222500 +0300" stop="20211023003000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Вдовы</title>
-</programme>
-<programme start="20211023003000 +0300" stop="20211023021000 +0300" channel="Остросюжетное HD">
-<title lang="ru">Ограбление по-итальянски</title>
-</programme>
-<programme start="20211023021000 +0300" stop="20211023033500 +0300" channel="Остросюжетное HD">
-<title lang="ru">Va-банк</title>
-</programme>
-<programme start="20211022092000 +0300" stop="20211022102000 +0300" channel="А1">
-<title lang="ru">Дом Саддама</title>
-</programme>
-<programme start="20211022102000 +0300" stop="20211022104000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022104000 +0300" stop="20211022111000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022111000 +0300" stop="20211022113500 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022113500 +0300" stop="20211022124500 +0300" channel="А1">
-<title lang="ru">Я знаю, кто ты</title>
-</programme>
-<programme start="20211022124500 +0300" stop="20211022132500 +0300" channel="А1">
-<title lang="ru">Сумеречная зона</title>
-</programme>
-<programme start="20211022132500 +0300" stop="20211022142500 +0300" channel="А1">
-<title lang="ru">Дом Саддама</title>
-</programme>
-<programme start="20211022142500 +0300" stop="20211022163500 +0300" channel="А1">
-<title lang="ru">Мастер</title>
-</programme>
-<programme start="20211022163500 +0300" stop="20211022170000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022170000 +0300" stop="20211022173000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022173000 +0300" stop="20211022180000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211022180000 +0300" stop="20211022191500 +0300" channel="А1">
-<title lang="ru">Я знаю, кто ты</title>
-</programme>
-<programme start="20211022191500 +0300" stop="20211022200000 +0300" channel="А1">
-<title lang="ru">Под куполом</title>
-</programme>
-<programme start="20211022200000 +0300" stop="20211022210000 +0300" channel="А1">
-<title lang="ru">Дедвуд</title>
-</programme>
-<programme start="20211022210000 +0300" stop="20211022214000 +0300" channel="А1">
-<title lang="ru">Сумеречная зона</title>
-</programme>
-<programme start="20211022214000 +0300" stop="20211022232000 +0300" channel="А1">
-<title lang="ru">Вальгалла</title>
-</programme>
-<programme start="20211022232000 +0300" stop="20211022234500 +0300" channel="А1">
-<title lang="ru">Как послушный ребенок</title>
-</programme>
-<programme start="20211022234500 +0300" stop="20211023003000 +0300" channel="А1">
-<title lang="ru">Под куполом</title>
-</programme>
-<programme start="20211023003000 +0300" stop="20211023013000 +0300" channel="А1">
-<title lang="ru">Дом Саддама</title>
-</programme>
-<programme start="20211023013000 +0300" stop="20211023015500 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211023015500 +0300" stop="20211023022000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211023022000 +0300" stop="20211023025000 +0300" channel="А1">
-<title lang="ru">Убить скуку</title>
-</programme>
-<programme start="20211023025000 +0300" stop="20211023034500 +0300" channel="А1">
-<title lang="ru">Дедвуд</title>
-</programme>
-<programme start="20211023034500 +0300" stop="20211023042500 +0300" channel="А1">
-<title lang="ru">Сумеречная зона</title>
-</programme>
-<programme start="20211022093000 +0300" stop="20211022095500 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022095500 +0300" stop="20211022102000 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022102000 +0300" stop="20211022104500 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022104500 +0300" stop="20211022113000 +0300" channel="А2">
-<title lang="ru">Сомнение</title>
-</programme>
-<programme start="20211022113000 +0300" stop="20211022121500 +0300" channel="А2">
-<title lang="ru">Сплетница</title>
-</programme>
-<programme start="20211022121500 +0300" stop="20211022130000 +0300" channel="А2">
-<title lang="ru">Инстинкт</title>
-</programme>
-<programme start="20211022130000 +0300" stop="20211022144000 +0300" channel="А2">
-<title lang="ru">Моя собака идиот</title>
-</programme>
-<programme start="20211022144000 +0300" stop="20211022161000 +0300" channel="А2">
-<title lang="ru">Твин Пикс</title>
-</programme>
-<programme start="20211022161000 +0300" stop="20211022165500 +0300" channel="А2">
-<title lang="ru">Сомнение</title>
-</programme>
-<programme start="20211022165500 +0300" stop="20211022172500 +0300" channel="А2">
-<title lang="ru">Шучу</title>
-</programme>
-<programme start="20211022172500 +0300" stop="20211022175500 +0300" channel="А2">
-<title lang="ru">Шучу</title>
-</programme>
-<programme start="20211022175500 +0300" stop="20211022181500 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022181500 +0300" stop="20211022184000 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022184000 +0300" stop="20211022190500 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211022190500 +0300" stop="20211022194500 +0300" channel="А2">
-<title lang="ru">Инстинкт</title>
-</programme>
-<programme start="20211022194500 +0300" stop="20211022203000 +0300" channel="А2">
-<title lang="ru">Сплетница</title>
-</programme>
-<programme start="20211022203000 +0300" stop="20211022220000 +0300" channel="А2">
-<title lang="ru">Твин Пикс</title>
-</programme>
-<programme start="20211022220000 +0300" stop="20211022223000 +0300" channel="А2">
-<title lang="ru">Шучу</title>
-</programme>
-<programme start="20211022223000 +0300" stop="20211022230000 +0300" channel="А2">
-<title lang="ru">Шучу</title>
-</programme>
-<programme start="20211022230000 +0300" stop="20211023002000 +0300" channel="А2">
-<title lang="ru">Игрушки для взрослых</title>
-</programme>
-<programme start="20211023002000 +0300" stop="20211023011000 +0300" channel="А2">
-<title lang="ru">Большая любовь</title>
-</programme>
-<programme start="20211023011000 +0300" stop="20211023015500 +0300" channel="А2">
-<title lang="ru">Инстинкт</title>
-</programme>
-<programme start="20211023015500 +0300" stop="20211023022000 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211023022000 +0300" stop="20211023024500 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211023024500 +0300" stop="20211023031000 +0300" channel="А2">
-<title lang="ru">Киллерши</title>
-</programme>
-<programme start="20211023031000 +0300" stop="20211023044500 +0300" channel="А2">
-<title lang="ru">Благословенная Мария</title>
-</programme>
-<programme start="20211022090500 +0300" stop="20211022094000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022094000 +0300" stop="20211022101000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022101000 +0300" stop="20211022104000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022104000 +0300" stop="20211022113000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211022113000 +0300" stop="20211022122000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211022122000 +0300" stop="20211022130500 +0300" channel="Amedia Hit">
-<title lang="ru">Лонгмайр</title>
-</programme>
-<programme start="20211022130500 +0300" stop="20211022135500 +0300" channel="Amedia Hit">
-<title lang="ru">По волчьим законам</title>
-</programme>
-<programme start="20211022135500 +0300" stop="20211022144500 +0300" channel="Amedia Hit">
-<title lang="ru">Мистер Мерседес</title>
-</programme>
-<programme start="20211022144500 +0300" stop="20211022150000 +0300" channel="Amedia Hit">
-<title lang="ru">Как на Земле</title>
-</programme>
-<programme start="20211022150000 +0300" stop="20211022170000 +0300" channel="Amedia Hit">
-<title lang="ru">Коммивояжер</title>
-</programme>
-<programme start="20211022170000 +0300" stop="20211022173500 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022173500 +0300" stop="20211022180500 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022180500 +0300" stop="20211022184000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211022184000 +0300" stop="20211022193000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211022193000 +0300" stop="20211022202000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211022202000 +0300" stop="20211022211000 +0300" channel="Amedia Hit">
-<title lang="ru">Лонгмайр</title>
-</programme>
-<programme start="20211022211000 +0300" stop="20211022220000 +0300" channel="Amedia Hit">
-<title lang="ru">По волчьим законам</title>
-</programme>
-<programme start="20211022220000 +0300" stop="20211022225000 +0300" channel="Amedia Hit">
-<title lang="ru">Мистер Мерседес</title>
-</programme>
-<programme start="20211022225000 +0300" stop="20211023010500 +0300" channel="Amedia Hit">
-<title lang="ru">Норма Джин и Мэрилин</title>
-</programme>
-<programme start="20211023010500 +0300" stop="20211023014000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211023014000 +0300" stop="20211023021000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211023021000 +0300" stop="20211023024000 +0300" channel="Amedia Hit">
-<title lang="ru">Девочки</title>
-</programme>
-<programme start="20211023024000 +0300" stop="20211023033000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211023033000 +0300" stop="20211023042000 +0300" channel="Amedia Hit">
-<title lang="ru">Безумцы</title>
-</programme>
-<programme start="20211022091000 +0300" stop="20211022100000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Семья черной мафии</title>
-</programme>
-<programme start="20211022100000 +0300" stop="20211022102500 +0300" channel="Amedia Premium HD">
-<title lang="ru">Призраки</title>
-</programme>
-<programme start="20211022102500 +0300" stop="20211022111000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Дневники COVID-19. Нью-Йорк</title>
-</programme>
-<programme start="20211022111000 +0300" stop="20211022130000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Магазинные воришки</title>
-</programme>
-<programme start="20211022130000 +0300" stop="20211022140000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Наследники</title>
-</programme>
-<programme start="20211022140000 +0300" stop="20211022150000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Наследники</title>
-</programme>
-<programme start="20211022150000 +0300" stop="20211022160000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Наследники</title>
-</programme>
-<programme start="20211022160000 +0300" stop="20211022171000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Наследники</title>
-</programme>
-<programme start="20211022171000 +0300" stop="20211022182500 +0300" channel="Amedia Premium HD">
-<title lang="ru">Бог детей</title>
-</programme>
-<programme start="20211022182500 +0300" stop="20211022184500 +0300" channel="Amedia Premium HD">
-<title lang="ru">Большой Волк и Маленький Волк</title>
-</programme>
-<programme start="20211022184500 +0300" stop="20211022193500 +0300" channel="Amedia Premium HD">
-<title lang="ru">Семья черной мафии</title>
-</programme>
-<programme start="20211022193500 +0300" stop="20211022200000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Призраки</title>
-</programme>
-<programme start="20211022200000 +0300" stop="20211022210500 +0300" channel="Amedia Premium HD">
-<title lang="ru">В поисках Аляски</title>
-</programme>
-<programme start="20211022210500 +0300" stop="20211022220000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Американские боги</title>
-</programme>
-<programme start="20211022220000 +0300" stop="20211022225000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Британия</title>
-</programme>
-<programme start="20211022225000 +0300" stop="20211022232000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Поколение</title>
-</programme>
-<programme start="20211022232000 +0300" stop="20211022235000 +0300" channel="Amedia Premium HD">
-<title lang="ru">События прошедшей недели с Джоном Оливером</title>
-</programme>
-<programme start="20211022235000 +0300" stop="20211023011500 +0300" channel="Amedia Premium HD">
-<title lang="ru">Тебя никогда здесь не было</title>
-</programme>
-<programme start="20211023011500 +0300" stop="20211023023000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Бог детей</title>
-</programme>
-<programme start="20211023023000 +0300" stop="20211023032000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Британия</title>
-</programme>
-<programme start="20211023032000 +0300" stop="20211023035000 +0300" channel="Amedia Premium HD">
-<title lang="ru">Поколение</title>
-</programme>
-<programme start="20211022081500 +0300" stop="20211022100500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Призрачный гонщик</title>
-</programme>
-<programme start="20211022100500 +0300" stop="20211022114500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Призрачный гонщик 2</title>
-</programme>
-<programme start="20211022114500 +0300" stop="20211022132500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Солт</title>
-</programme>
-<programme start="20211022132500 +0300" stop="20211022150500 +0300" channel="Кино ТВ HD">
-<title lang="ru">После заката</title>
-</programme>
-<programme start="20211022150500 +0300" stop="20211022170500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Ограбление на Бейкер-стрит</title>
-</programme>
-<programme start="20211022170500 +0300" stop="20211022185500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Ограбление по-итальянски</title>
-</programme>
-<programme start="20211022185500 +0300" stop="20211022210000 +0300" channel="Кино ТВ HD">
-<title lang="ru">Плохие парни</title>
-</programme>
-<programme start="20211022210000 +0300" stop="20211022233500 +0300" channel="Кино ТВ HD">
-<title lang="ru">Плохие парни 2</title>
-</programme>
-<programme start="20211022233500 +0300" stop="20211023013000 +0300" channel="Кино ТВ HD">
-<title lang="ru">Мы - Миллеры</title>
-</programme>
-<programme start="20211023013000 +0300" stop="20211023031000 +0300" channel="Кино ТВ HD">
-<title lang="ru">Шпион, который меня кинул</title>
-</programme>
-<programme start="20211023031000 +0300" stop="20211023043000 +0300" channel="Кино ТВ HD">
-<title lang="ru">Эйс Вентура</title>
-</programme>
+  <channel id="Fox Life HD">
+    <display-name lang="ru">Fox Life HD</display-name>
+    <icon src="https://resizer.mail.ru/p/6c098478-a5ad-563b-b67b-c553f1c2471d/dpr:200/AAACPJ4zPHoalOYgLr2pmVSYmbyf6gQgzFBaOXad6XiLijBZ0qRafmX38WBL6zo4cMGpV1Pw7nmxPQQ4_qYpflBnHXc.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONY ТВ">
+    <display-name lang="ru">SONY ТВ</display-name>
+    <icon src="https://resizer.mail.ru/p/a27eed55-5838-599b-a249-1322fffe08c7/dpr:200/AQACuEodeNazWlZnsvU4W9cWPbVWQX1reC2apV5YJVYDbonUi9n4DobM_C7Uf64t6_T-P9IH3m_-6I4t7wCxh3CAkPY.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Sony Turbo">
+    <display-name lang="ru">Sony Turbo</display-name>
+    <icon src="https://resizer.mail.ru/p/4668f477-7030-5f91-98b5-eb83bee90928/dpr:200/AQACGpiikHYQYPdstYI04HLGz_N0SOxeO8Y8Q0ZNlkVHbVlyGbA097iHVSidZ7Ks7DiZZzJcKAKMT-jtfTIUZRq49Yw.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONY Sci-Fi">
+    <display-name lang="ru">SONY Sci-Fi</display-name>
+    <icon src="https://resizer.mail.ru/p/17f8bac2-9fb4-5011-96a9-850ff9822833/dpr:200/AQACcuPxh24nPnc26sqW7sodcVmU_zxXVrERvgrOliTY_BsuJwlc3-xek4i_gauOwCMPE3QqUHSOEy1gTZOTeojK8dY.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Комедийное HD">
+    <display-name lang="ru">Комедийное HD</display-name>
+    <icon src="https://resizer.mail.ru/p/17a9a4fe-19ed-5cb9-9707-9cded8101344/dpr:200/AAACxzrxU3rH8gVrIMEZvQo82RVuORMYh9xAlXYS8P2oFaS1Qp-Dmv4TtLAzhMVD2VnPPnNNwo0pMjrN1ru15Wlhg_I.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Шокирующее HD">
+    <display-name lang="ru">Шокирующее HD</display-name>
+    <icon src="https://resizer.mail.ru/p/48320ca9-1f6d-5365-938b-0ff801946623/dpr:200/AAACJti04guJY_DuVfikqSPV3K8DttcA2g6Jdv3_P1x6Q4V9KfnI8zdcWdLwlZMrYyVWR0MX8Z7VZzUzFpervGlzFKk.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Страшное HD">
+    <display-name lang="ru">Страшное HD</display-name>
+    <icon src="https://resizer.mail.ru/p/3ff38bf7-e08a-5a3b-9071-2613a65183b3/dpr:200/AAACJW53QUvg__iJkIcH7aBEA1Ez4o8WEbcd6t8SF6alONlodmUbUail-2CDHOhSdxi-8k_zwqCrKSwsbpuTKF6SOMU.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Настоящее Страшное Телевидение">
+    <display-name lang="ru">Настоящее Страшное Телевидение</display-name>
+    <icon src="https://resizer.mail.ru/p/82740131-f21e-5a02-9536-cc157fabb45f/dpr:200/AQACx-pthn5wzsqMz_biuPqIiKbSC_2A9fXy9acIH6XrZ7vFozTy_SNCqXXc_suYWZHJ2iPVx6g2hFue9Ws2EdpE_qE.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Остросюжетное HD">
+    <display-name lang="ru">Остросюжетное HD</display-name>
+    <icon src="https://resizer.mail.ru/p/c2f8532f-a7da-5b12-b24d-98841a697f3c/dpr:200/AAAC6b64YtN_lbnMCZWwh_obdzP_bkTB49K4oqnhG4wmqb7u4-kCWrQd5s4Ul2uMsEEjx4CqBrh9iFelCHR6W8oj6SE.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="А1">
+    <display-name lang="ru">А1</display-name>
+    <icon src="https://resizer.mail.ru/p/d6406644-e9f0-5944-ba3f-7afc0a47ead0/dpr:200/AQAC147F1gkWPlyZFNqmQbuoUeNqfiZujX-8zslAdqJje4DPQMyp4eE0__RM3GD3Qh89BZVQzAU7VIyzU5qxP5iOQKc.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="А2">
+    <display-name lang="ru">А2</display-name>
+    <icon src="https://resizer.mail.ru/p/78341c4c-defa-5e6e-bee0-2c778f8de46f/dpr:200/AQACef5bLJKMPK0NaJJuR403K1z0xYfV-bw-7Osw9UrByc4b5UyRSm4ImJ_VcM9iPauf0N00DMRZ3vxGQQhWi1V7VyQ.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Amedia Hit">
+    <display-name lang="ru">Amedia Hit</display-name>
+    <icon src="https://resizer.mail.ru/p/7c5b0af5-8bd1-5997-8954-d8269fac8cd3/dpr:200/AQACUWU1HlNQmKllH61bKZFCMK2feChxORYcoNgUnHnQsXaj3Ru_IRnn-nRU24NBQLfgxxx1pcpwvJQnNzW1ju13pi8.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Amedia Premium HD">
+    <display-name lang="ru">Amedia Premium HD</display-name>
+    <icon src="https://resizer.mail.ru/p/59a67e72-9dff-5016-b99b-56d6c9d2f19f/dpr:200/AAAC_Bn_X3guEFtOawvEhvzRzFspeqJai01tbu7nJMOXQ2I9OmIvrA1xQh3v4vNW_855ftTCz-6mzob6z1f-62iYfew.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кино ТВ HD">
+    <display-name lang="ru">Кино ТВ HD</display-name>
+    <icon src="https://resizer.mail.ru/p/83c28e96-1743-5a4b-8b2e-efb8e3828ce5/dpr:200/AQACUJ71KckrGGunSXLpTz5ZYtFrOMPcdMiFEjeWWfY8Fw5dnpF7VWCcXE7W_m1f4OvEQdSM7kOjhtBrmxczr2IO81Q.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Premiere">
+    <display-name lang="ru">ViP Premiere</display-name>
+    <icon src="https://resizer.mail.ru/p/258e4a8c-92f2-5440-be6a-d2752205ab56/dpr:200/AAAC6zQ8DzNxWZa8bI8Kripa4xv-1zzTQ3jqcANIPdKEI3ZVOj-xU6XOftoizqvgiXNKbIkl26t3TDKPZWFGhVUN9Nw.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Megahit">
+    <display-name lang="ru">ViP Megahit</display-name>
+    <icon src="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/dpr:200/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Serial">
+    <display-name lang="ru">ViP Serial</display-name>
+    <icon src="https://resizer.mail.ru/p/9f22c310-d567-5977-a334-924d9fad3b14/dpr:200/AAACaFnmMOlAjl61lQ9KhF6dOh_H-qWU9sYRn4O0L8JAsUOYDMTc6IvYe-1jr5bH57D33_0wOreA8oDNs347L-PX2Wk.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Comedy">
+    <display-name lang="ru">ViP Comedy</display-name>
+    <icon src="https://resizer.mail.ru/p/fac64fc6-ffd6-5c2f-bb56-3019db54a57b/dpr:200/AAACOQieLLwXogvhDcDdnmcQkp3pbjUu1O324SDwFqzsR-bvKsJQu1UvWEeO-Ja5pz_3hGVwxwhDXi-g_XozkPMMU3A.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кинохит">
+    <display-name lang="ru">Кинохит</display-name>
+    <icon src="https://resizer.mail.ru/p/2a64ac38-423d-5829-afa2-d82d08f0b5b1/dpr:200/AAACJvV8KwFl7FD0_8AUOULk6ekZ1htgPrADYPz4CIfxhMYhQaUUrjRLwmUfMqEea4dXndtV7nyLMjxa8LyPJ6nd_Uc.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Киномикс">
+    <display-name lang="ru">Киномикс</display-name>
+    <icon src="https://resizer.mail.ru/p/9864d840-33db-5422-9817-fea5d5071819/dpr:200/AAACRKf-KAZ9F7D-KwncnhP5rjB67-EDyYcPtMpyTm-IVMpE8Jl0k0Mnpbbdrq1hQCEO6FEvsbxlTce7h8OyLaAUaU8.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <programme start="20211022093000 +0300" stop="20211022102000 +0300" channel="Fox Life HD">
+    <title lang="ru">Вегетарианская кухня с Джейми Оливером</title>
+  </programme>
+  <programme start="20211022102000 +0300" stop="20211022104500 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022104500 +0300" stop="20211022111000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022111000 +0300" stop="20211022113000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022113000 +0300" stop="20211022115500 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022115500 +0300" stop="20211022124500 +0300" channel="Fox Life HD">
+    <title lang="ru">Чикаго в огне</title>
+  </programme>
+  <programme start="20211022124500 +0300" stop="20211022134000 +0300" channel="Fox Life HD">
+    <title lang="ru">Постучись в мою дверь</title>
+  </programme>
+  <programme start="20211022134000 +0300" stop="20211022142500 +0300" channel="Fox Life HD">
+    <title lang="ru">Касл</title>
+  </programme>
+  <programme start="20211022142500 +0300" stop="20211022151500 +0300" channel="Fox Life HD">
+    <title lang="ru">Касл</title>
+  </programme>
+  <programme start="20211022151500 +0300" stop="20211022161000 +0300" channel="Fox Life HD">
+    <title lang="ru">Это мы</title>
+  </programme>
+  <programme start="20211022161000 +0300" stop="20211022163000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022163000 +0300" stop="20211022165500 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022165500 +0300" stop="20211022172000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022172000 +0300" stop="20211022175000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211022175000 +0300" stop="20211022183500 +0300" channel="Fox Life HD">
+    <title lang="ru">Касл</title>
+  </programme>
+  <programme start="20211022183500 +0300" stop="20211022192500 +0300" channel="Fox Life HD">
+    <title lang="ru">Касл</title>
+  </programme>
+  <programme start="20211022192500 +0300" stop="20211022201000 +0300" channel="Fox Life HD">
+    <title lang="ru">Анатомия страсти</title>
+  </programme>
+  <programme start="20211022201000 +0300" stop="20211022210000 +0300" channel="Fox Life HD">
+    <title lang="ru">Анатомия страсти</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022215500 +0300" channel="Fox Life HD">
+    <title lang="ru">Постучись в мою дверь</title>
+  </programme>
+  <programme start="20211022215500 +0300" stop="20211022224000 +0300" channel="Fox Life HD">
+    <title lang="ru">Чикаго в огне</title>
+  </programme>
+  <programme start="20211022224000 +0300" stop="20211022234000 +0300" channel="Fox Life HD">
+    <title lang="ru">Кандис Ренуар</title>
+  </programme>
+  <programme start="20211022234000 +0300" stop="20211023004000 +0300" channel="Fox Life HD">
+    <title lang="ru">Кандис Ренуар</title>
+  </programme>
+  <programme start="20211023004000 +0300" stop="20211023013000 +0300" channel="Fox Life HD">
+    <title lang="ru">Постучись в мою дверь</title>
+  </programme>
+  <programme start="20211023013000 +0300" stop="20211023015000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211023015000 +0300" stop="20211023021500 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211023021500 +0300" stop="20211023023500 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211023023500 +0300" stop="20211023030000 +0300" channel="Fox Life HD">
+    <title lang="ru">Благослови этот бардак</title>
+  </programme>
+  <programme start="20211023030000 +0300" stop="20211023035000 +0300" channel="Fox Life HD">
+    <title lang="ru">Номер 309</title>
+  </programme>
+  <programme start="20211023035000 +0300" stop="20211023043500 +0300" channel="Fox Life HD">
+    <title lang="ru">Номер 309</title>
+  </programme>
+  <programme start="20211022085500 +0300" stop="20211022095000 +0300" channel="SONY ТВ">
+    <title lang="ru">Аббатство Даунтон</title>
+  </programme>
+  <programme start="20211022095000 +0300" stop="20211022120500 +0300" channel="SONY ТВ">
+    <title lang="ru">Разум и чувства</title>
+  </programme>
+  <programme start="20211022120500 +0300" stop="20211022125000 +0300" channel="SONY ТВ">
+    <title lang="ru">Амнезия</title>
+  </programme>
+  <programme start="20211022125000 +0300" stop="20211022133500 +0300" channel="SONY ТВ">
+    <title lang="ru">Проект "Подиум"</title>
+  </programme>
+  <programme start="20211022133500 +0300" stop="20211022145000 +0300" channel="SONY ТВ">
+    <title lang="ru">Правила моей кухни</title>
+  </programme>
+  <programme start="20211022145000 +0300" stop="20211022154000 +0300" channel="SONY ТВ">
+    <title lang="ru">Аббатство Даунтон</title>
+  </programme>
+  <programme start="20211022154000 +0300" stop="20211022162500 +0300" channel="SONY ТВ">
+    <title lang="ru">До смерти красива</title>
+  </programme>
+  <programme start="20211022162500 +0300" stop="20211022171000 +0300" channel="SONY ТВ">
+    <title lang="ru">До смерти красива</title>
+  </programme>
+  <programme start="20211022171000 +0300" stop="20211022181500 +0300" channel="SONY ТВ">
+    <title lang="ru">Правила моей пекарни</title>
+  </programme>
+  <programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="SONY ТВ">
+    <title lang="ru">Проект "Подиум"</title>
+  </programme>
+  <programme start="20211022190000 +0300" stop="20211022200000 +0300" channel="SONY ТВ">
+    <title lang="ru">Правила моей кухни</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022215500 +0300" channel="SONY ТВ">
+    <title lang="ru">Чудеса с небес</title>
+  </programme>
+  <programme start="20211022215500 +0300" stop="20211022234500 +0300" channel="SONY ТВ">
+    <title lang="ru">Крамер против Крамера</title>
+  </programme>
+  <programme start="20211022234500 +0300" stop="20211023013000 +0300" channel="SONY ТВ">
+    <title lang="ru">Глория Белл</title>
+  </programme>
+  <programme start="20211023013000 +0300" stop="20211023031000 +0300" channel="SONY ТВ">
+    <title lang="ru">50 первых поцелуев</title>
+  </programme>
+  <programme start="20211022090000 +0300" stop="20211022104000 +0300" channel="Sony Turbo">
+    <title lang="ru">Одноклассники 2</title>
+  </programme>
+  <programme start="20211022104000 +0300" stop="20211022130000 +0300" channel="Sony Turbo">
+    <title lang="ru">Каратэ-пацан</title>
+  </programme>
+  <programme start="20211022130000 +0300" stop="20211022135000 +0300" channel="Sony Turbo">
+    <title lang="ru">Мыслить как преступник</title>
+  </programme>
+  <programme start="20211022135000 +0300" stop="20211022144000 +0300" channel="Sony Turbo">
+    <title lang="ru">Мыслить как преступник</title>
+  </programme>
+  <programme start="20211022144000 +0300" stop="20211022160000 +0300" channel="Sony Turbo">
+    <title lang="ru">Топ Гир</title>
+  </programme>
+  <programme start="20211022160000 +0300" stop="20211022164500 +0300" channel="Sony Turbo">
+    <title lang="ru">Новичок</title>
+  </programme>
+  <programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="Sony Turbo">
+    <title lang="ru">Новичок</title>
+  </programme>
+  <programme start="20211022173000 +0300" stop="20211022181500 +0300" channel="Sony Turbo">
+    <title lang="ru">Мыслить как преступник</title>
+  </programme>
+  <programme start="20211022181500 +0300" stop="20211022190000 +0300" channel="Sony Turbo">
+    <title lang="ru">Мыслить как преступник</title>
+  </programme>
+  <programme start="20211022190000 +0300" stop="20211022201500 +0300" channel="Sony Turbo">
+    <title lang="ru">Топ Гир</title>
+  </programme>
+  <programme start="20211022201500 +0300" stop="20211022210500 +0300" channel="Sony Turbo">
+    <title lang="ru">Новичок</title>
+  </programme>
+  <programme start="20211022210500 +0300" stop="20211022220000 +0300" channel="Sony Turbo">
+    <title lang="ru">Новичок</title>
+  </programme>
+  <programme start="20211022220000 +0300" stop="20211022232500 +0300" channel="Sony Turbo">
+    <title lang="ru">Успеть за 30 минут</title>
+  </programme>
+  <programme start="20211022232500 +0300" stop="20211023001500 +0300" channel="Sony Turbo">
+    <title lang="ru">Во все тяжкие</title>
+  </programme>
+  <programme start="20211023001500 +0300" stop="20211023011000 +0300" channel="Sony Turbo">
+    <title lang="ru">Во все тяжкие</title>
+  </programme>
+  <programme start="20211023011000 +0300" stop="20211023034000 +0300" channel="Sony Turbo">
+    <title lang="ru">Девушка с татуировкой дракона</title>
+  </programme>
+  <programme start="20211022094500 +0300" stop="20211022103500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022103500 +0300" stop="20211022113000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022113000 +0300" stop="20211022122000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Тайны Хейвена</title>
+  </programme>
+  <programme start="20211022122000 +0300" stop="20211022131000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Тайны Хейвена</title>
+  </programme>
+  <programme start="20211022131000 +0300" stop="20211022150500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Кингсглейв</title>
+  </programme>
+  <programme start="20211022150500 +0300" stop="20211022155500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022155500 +0300" stop="20211022164500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022164500 +0300" stop="20211022173000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Тайны Хейвена</title>
+  </programme>
+  <programme start="20211022173000 +0300" stop="20211022182000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Тайны Хейвена</title>
+  </programme>
+  <programme start="20211022182000 +0300" stop="20211022191000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Звездный крейсер Галактика</title>
+  </programme>
+  <programme start="20211022191000 +0300" stop="20211022200000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Звездный крейсер Галактика</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022205000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022205000 +0300" stop="20211022214000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Доктор Кто</title>
+  </programme>
+  <programme start="20211022214000 +0300" stop="20211022223000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">12 обезьян</title>
+  </programme>
+  <programme start="20211022223000 +0300" stop="20211022232000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">12 обезьян</title>
+  </programme>
+  <programme start="20211022232000 +0300" stop="20211023001000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Нация Z</title>
+  </programme>
+  <programme start="20211023001000 +0300" stop="20211023010000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Звездный крейсер Галактика</title>
+  </programme>
+  <programme start="20211023010000 +0300" stop="20211023014500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Звездный крейсер Галактика</title>
+  </programme>
+  <programme start="20211023014500 +0300" stop="20211023023000 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">Нация Z</title>
+  </programme>
+  <programme start="20211023023000 +0300" stop="20211023031500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">12 обезьян</title>
+  </programme>
+  <programme start="20211023031500 +0300" stop="20211023040500 +0300" channel="SONY Sci-Fi">
+    <title lang="ru">12 обезьян</title>
+  </programme>
+  <programme start="20211022082500 +0300" stop="20211022100000 +0300" channel="Комедийное HD">
+    <title lang="ru">Однажды в Ирландии</title>
+  </programme>
+  <programme start="20211022100000 +0300" stop="20211022113000 +0300" channel="Комедийное HD">
+    <title lang="ru">Большая жратва</title>
+  </programme>
+  <programme start="20211022113000 +0300" stop="20211022130000 +0300" channel="Комедийное HD">
+    <title lang="ru">Случайно беременна</title>
+  </programme>
+  <programme start="20211022130000 +0300" stop="20211022143500 +0300" channel="Комедийное HD">
+    <title lang="ru">Папаши без вредных привычек</title>
+  </programme>
+  <programme start="20211022143500 +0300" stop="20211022163000 +0300" channel="Комедийное HD">
+    <title lang="ru">Инструкции не прилагаются</title>
+  </programme>
+  <programme start="20211022163000 +0300" stop="20211022180000 +0300" channel="Комедийное HD">
+    <title lang="ru">Дежурный папа</title>
+  </programme>
+  <programme start="20211022180000 +0300" stop="20211022194500 +0300" channel="Комедийное HD">
+    <title lang="ru">Слишком крута для тебя</title>
+  </programme>
+  <programme start="20211022194500 +0300" stop="20211022213000 +0300" channel="Комедийное HD">
+    <title lang="ru">Полтора рыцаря</title>
+  </programme>
+  <programme start="20211022213000 +0300" stop="20211022225000 +0300" channel="Комедийное HD">
+    <title lang="ru">Настоящие боссы</title>
+  </programme>
+  <programme start="20211022225000 +0300" stop="20211023004000 +0300" channel="Комедийное HD">
+    <title lang="ru">Та еще парочка</title>
+  </programme>
+  <programme start="20211023004000 +0300" stop="20211023020000 +0300" channel="Комедийное HD">
+    <title lang="ru">Я, снова я и мама</title>
+  </programme>
+  <programme start="20211023020000 +0300" stop="20211023034000 +0300" channel="Комедийное HD">
+    <title lang="ru">Призрачный патруль</title>
+  </programme>
+  <programme start="20211022085500 +0300" stop="20211022101500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Пираньи 3DD</title>
+  </programme>
+  <programme start="20211022101500 +0300" stop="20211022113500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Один пропущенный звонок</title>
+  </programme>
+  <programme start="20211022113500 +0300" stop="20211022131000 +0300" channel="Шокирующее HD">
+    <title lang="ru">Кукла</title>
+  </programme>
+  <programme start="20211022131000 +0300" stop="20211022142500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Кукла 2</title>
+  </programme>
+  <programme start="20211022142500 +0300" stop="20211022155000 +0300" channel="Шокирующее HD">
+    <title lang="ru">Пираньи 3D</title>
+  </programme>
+  <programme start="20211022155000 +0300" stop="20211022170500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Пираньи 3DD</title>
+  </programme>
+  <programme start="20211022170500 +0300" stop="20211022183000 +0300" channel="Шокирующее HD">
+    <title lang="ru">Один пропущенный звонок</title>
+  </programme>
+  <programme start="20211022183000 +0300" stop="20211022195500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20211022195500 +0300" stop="20211022213000 +0300" channel="Шокирующее HD">
+    <title lang="ru">Джиперс Криперс 3</title>
+  </programme>
+  <programme start="20211022213000 +0300" stop="20211022231500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Зеркала</title>
+  </programme>
+  <programme start="20211022231500 +0300" stop="20211023003500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Мы еще здесь</title>
+  </programme>
+  <programme start="20211023003500 +0300" stop="20211023012500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Касл-Рок</title>
+  </programme>
+  <programme start="20211023012500 +0300" stop="20211023025000 +0300" channel="Шокирующее HD">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20211023025000 +0300" stop="20211023042500 +0300" channel="Шокирующее HD">
+    <title lang="ru">Джиперс Криперс 3</title>
+  </programme>
+  <programme start="20211022084500 +0300" stop="20211022101000 +0300" channel="Страшное HD">
+    <title lang="ru">Страна призраков</title>
+  </programme>
+  <programme start="20211022101000 +0300" stop="20211022114000 +0300" channel="Страшное HD">
+    <title lang="ru">Экстрасенс 2. Лабиринты разума</title>
+  </programme>
+  <programme start="20211022114000 +0300" stop="20211022131000 +0300" channel="Страшное HD">
+    <title lang="ru">Дантист</title>
+  </programme>
+  <programme start="20211022131000 +0300" stop="20211022144000 +0300" channel="Страшное HD">
+    <title lang="ru">Глаз</title>
+  </programme>
+  <programme start="20211022144000 +0300" stop="20211022161500 +0300" channel="Страшное HD">
+    <title lang="ru">Нечто</title>
+  </programme>
+  <programme start="20211022161500 +0300" stop="20211022173500 +0300" channel="Страшное HD">
+    <title lang="ru">Бугимен</title>
+  </programme>
+  <programme start="20211022173500 +0300" stop="20211022190000 +0300" channel="Страшное HD">
+    <title lang="ru">Бугимен-2</title>
+  </programme>
+  <programme start="20211022190000 +0300" stop="20211022203000 +0300" channel="Страшное HD">
+    <title lang="ru">Бугимен-3</title>
+  </programme>
+  <programme start="20211022203000 +0300" stop="20211022215000 +0300" channel="Страшное HD">
+    <title lang="ru">Дом 1000 трупов</title>
+  </programme>
+  <programme start="20211022215000 +0300" stop="20211022231500 +0300" channel="Страшное HD">
+    <title lang="ru">Добро пожаловать в Зомбилэнд</title>
+  </programme>
+  <programme start="20211022231500 +0300" stop="20211023003500 +0300" channel="Страшное HD">
+    <title lang="ru">Катакомбы</title>
+  </programme>
+  <programme start="20211023003500 +0300" stop="20211023022500 +0300" channel="Страшное HD">
+    <title lang="ru">Последний дом слева</title>
+  </programme>
+  <programme start="20211023022500 +0300" stop="20211023034000 +0300" channel="Страшное HD">
+    <title lang="ru">Шоссе смерти</title>
+  </programme>
+  <programme start="20211022090000 +0300" stop="20211022110000 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Имитатор</title>
+  </programme>
+  <programme start="20211022110000 +0300" stop="20211022123500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Запрос в друзья</title>
+  </programme>
+  <programme start="20211022123500 +0300" stop="20211022140000 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Галлоуз Хилл</title>
+  </programme>
+  <programme start="20211022140000 +0300" stop="20211022154000 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Мрачные небеса</title>
+  </programme>
+  <programme start="20211022154000 +0300" stop="20211022170500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Всадники апокалипсиса</title>
+  </programme>
+  <programme start="20211022170500 +0300" stop="20211022183500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Вакансия на жертву</title>
+  </programme>
+  <programme start="20211022183500 +0300" stop="20211022210000 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Исчезнувшая</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022231500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Остров проклятых</title>
+  </programme>
+  <programme start="20211022231500 +0300" stop="20211023005000 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Багровые реки 2</title>
+  </programme>
+  <programme start="20211023005000 +0300" stop="20211023021500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Навстречу тьме</title>
+  </programme>
+  <programme start="20211023021500 +0300" stop="20211023035500 +0300" channel="Настоящее Страшное Телевидение">
+    <title lang="ru">Я знаю, кто убил меня</title>
+  </programme>
+  <programme start="20211022082000 +0300" stop="20211022102000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Вдовы</title>
+  </programme>
+  <programme start="20211022102000 +0300" stop="20211022120500 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Ограбление по-итальянски</title>
+  </programme>
+  <programme start="20211022120500 +0300" stop="20211022133000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Va-банк</title>
+  </programme>
+  <programme start="20211022133000 +0300" stop="20211022152500 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Джентльмены</title>
+  </programme>
+  <programme start="20211022152500 +0300" stop="20211022172500 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Вдовы</title>
+  </programme>
+  <programme start="20211022172500 +0300" stop="20211022191000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Ограбление по-итальянски</title>
+  </programme>
+  <programme start="20211022191000 +0300" stop="20211022203000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Va-банк</title>
+  </programme>
+  <programme start="20211022203000 +0300" stop="20211022222500 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Джентльмены</title>
+  </programme>
+  <programme start="20211022222500 +0300" stop="20211023003000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Вдовы</title>
+  </programme>
+  <programme start="20211023003000 +0300" stop="20211023021000 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Ограбление по-итальянски</title>
+  </programme>
+  <programme start="20211023021000 +0300" stop="20211023033500 +0300" channel="Остросюжетное HD">
+    <title lang="ru">Va-банк</title>
+  </programme>
+  <programme start="20211022092000 +0300" stop="20211022102000 +0300" channel="А1">
+    <title lang="ru">Дом Саддама</title>
+  </programme>
+  <programme start="20211022102000 +0300" stop="20211022104000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022104000 +0300" stop="20211022111000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022111000 +0300" stop="20211022113500 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022113500 +0300" stop="20211022124500 +0300" channel="А1">
+    <title lang="ru">Я знаю, кто ты</title>
+  </programme>
+  <programme start="20211022124500 +0300" stop="20211022132500 +0300" channel="А1">
+    <title lang="ru">Сумеречная зона</title>
+  </programme>
+  <programme start="20211022132500 +0300" stop="20211022142500 +0300" channel="А1">
+    <title lang="ru">Дом Саддама</title>
+  </programme>
+  <programme start="20211022142500 +0300" stop="20211022163500 +0300" channel="А1">
+    <title lang="ru">Мастер</title>
+  </programme>
+  <programme start="20211022163500 +0300" stop="20211022170000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022170000 +0300" stop="20211022173000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022173000 +0300" stop="20211022180000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211022180000 +0300" stop="20211022191500 +0300" channel="А1">
+    <title lang="ru">Я знаю, кто ты</title>
+  </programme>
+  <programme start="20211022191500 +0300" stop="20211022200000 +0300" channel="А1">
+    <title lang="ru">Под куполом</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022210000 +0300" channel="А1">
+    <title lang="ru">Дедвуд</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022214000 +0300" channel="А1">
+    <title lang="ru">Сумеречная зона</title>
+  </programme>
+  <programme start="20211022214000 +0300" stop="20211022232000 +0300" channel="А1">
+    <title lang="ru">Вальгалла</title>
+  </programme>
+  <programme start="20211022232000 +0300" stop="20211022234500 +0300" channel="А1">
+    <title lang="ru">Как послушный ребенок</title>
+  </programme>
+  <programme start="20211022234500 +0300" stop="20211023003000 +0300" channel="А1">
+    <title lang="ru">Под куполом</title>
+  </programme>
+  <programme start="20211023003000 +0300" stop="20211023013000 +0300" channel="А1">
+    <title lang="ru">Дом Саддама</title>
+  </programme>
+  <programme start="20211023013000 +0300" stop="20211023015500 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211023015500 +0300" stop="20211023022000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211023022000 +0300" stop="20211023025000 +0300" channel="А1">
+    <title lang="ru">Убить скуку</title>
+  </programme>
+  <programme start="20211023025000 +0300" stop="20211023034500 +0300" channel="А1">
+    <title lang="ru">Дедвуд</title>
+  </programme>
+  <programme start="20211023034500 +0300" stop="20211023042500 +0300" channel="А1">
+    <title lang="ru">Сумеречная зона</title>
+  </programme>
+  <programme start="20211022093000 +0300" stop="20211022095500 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022095500 +0300" stop="20211022102000 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022102000 +0300" stop="20211022104500 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022104500 +0300" stop="20211022113000 +0300" channel="А2">
+    <title lang="ru">Сомнение</title>
+  </programme>
+  <programme start="20211022113000 +0300" stop="20211022121500 +0300" channel="А2">
+    <title lang="ru">Сплетница</title>
+  </programme>
+  <programme start="20211022121500 +0300" stop="20211022130000 +0300" channel="А2">
+    <title lang="ru">Инстинкт</title>
+  </programme>
+  <programme start="20211022130000 +0300" stop="20211022144000 +0300" channel="А2">
+    <title lang="ru">Моя собака идиот</title>
+  </programme>
+  <programme start="20211022144000 +0300" stop="20211022161000 +0300" channel="А2">
+    <title lang="ru">Твин Пикс</title>
+  </programme>
+  <programme start="20211022161000 +0300" stop="20211022165500 +0300" channel="А2">
+    <title lang="ru">Сомнение</title>
+  </programme>
+  <programme start="20211022165500 +0300" stop="20211022172500 +0300" channel="А2">
+    <title lang="ru">Шучу</title>
+  </programme>
+  <programme start="20211022172500 +0300" stop="20211022175500 +0300" channel="А2">
+    <title lang="ru">Шучу</title>
+  </programme>
+  <programme start="20211022175500 +0300" stop="20211022181500 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022181500 +0300" stop="20211022184000 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022184000 +0300" stop="20211022190500 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211022190500 +0300" stop="20211022194500 +0300" channel="А2">
+    <title lang="ru">Инстинкт</title>
+  </programme>
+  <programme start="20211022194500 +0300" stop="20211022203000 +0300" channel="А2">
+    <title lang="ru">Сплетница</title>
+  </programme>
+  <programme start="20211022203000 +0300" stop="20211022220000 +0300" channel="А2">
+    <title lang="ru">Твин Пикс</title>
+  </programme>
+  <programme start="20211022220000 +0300" stop="20211022223000 +0300" channel="А2">
+    <title lang="ru">Шучу</title>
+  </programme>
+  <programme start="20211022223000 +0300" stop="20211022230000 +0300" channel="А2">
+    <title lang="ru">Шучу</title>
+  </programme>
+  <programme start="20211022230000 +0300" stop="20211023002000 +0300" channel="А2">
+    <title lang="ru">Игрушки для взрослых</title>
+  </programme>
+  <programme start="20211023002000 +0300" stop="20211023011000 +0300" channel="А2">
+    <title lang="ru">Большая любовь</title>
+  </programme>
+  <programme start="20211023011000 +0300" stop="20211023015500 +0300" channel="А2">
+    <title lang="ru">Инстинкт</title>
+  </programme>
+  <programme start="20211023015500 +0300" stop="20211023022000 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211023022000 +0300" stop="20211023024500 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211023024500 +0300" stop="20211023031000 +0300" channel="А2">
+    <title lang="ru">Киллерши</title>
+  </programme>
+  <programme start="20211023031000 +0300" stop="20211023044500 +0300" channel="А2">
+    <title lang="ru">Благословенная Мария</title>
+  </programme>
+  <programme start="20211022094000 +0300" stop="20211022101000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211022101000 +0300" stop="20211022104000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211022104000 +0300" stop="20211022113000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211022113000 +0300" stop="20211022122000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211022122000 +0300" stop="20211022130500 +0300" channel="Amedia Hit">
+    <title lang="ru">Лонгмайр</title>
+  </programme>
+  <programme start="20211022130500 +0300" stop="20211022135500 +0300" channel="Amedia Hit">
+    <title lang="ru">По волчьим законам</title>
+  </programme>
+  <programme start="20211022135500 +0300" stop="20211022144500 +0300" channel="Amedia Hit">
+    <title lang="ru">Мистер Мерседес</title>
+  </programme>
+  <programme start="20211022144500 +0300" stop="20211022150000 +0300" channel="Amedia Hit">
+    <title lang="ru">Как на Земле</title>
+  </programme>
+  <programme start="20211022150000 +0300" stop="20211022170000 +0300" channel="Amedia Hit">
+    <title lang="ru">Коммивояжер</title>
+  </programme>
+  <programme start="20211022170000 +0300" stop="20211022173500 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211022173500 +0300" stop="20211022180500 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211022180500 +0300" stop="20211022184000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211022184000 +0300" stop="20211022193000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211022193000 +0300" stop="20211022202000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211022202000 +0300" stop="20211022211000 +0300" channel="Amedia Hit">
+    <title lang="ru">Лонгмайр</title>
+  </programme>
+  <programme start="20211022211000 +0300" stop="20211022220000 +0300" channel="Amedia Hit">
+    <title lang="ru">По волчьим законам</title>
+  </programme>
+  <programme start="20211022220000 +0300" stop="20211022225000 +0300" channel="Amedia Hit">
+    <title lang="ru">Мистер Мерседес</title>
+  </programme>
+  <programme start="20211022225000 +0300" stop="20211023010500 +0300" channel="Amedia Hit">
+    <title lang="ru">Норма Джин и Мэрилин</title>
+  </programme>
+  <programme start="20211023010500 +0300" stop="20211023014000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211023014000 +0300" stop="20211023021000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211023021000 +0300" stop="20211023024000 +0300" channel="Amedia Hit">
+    <title lang="ru">Девочки</title>
+  </programme>
+  <programme start="20211023024000 +0300" stop="20211023033000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211023033000 +0300" stop="20211023042000 +0300" channel="Amedia Hit">
+    <title lang="ru">Безумцы</title>
+  </programme>
+  <programme start="20211022091000 +0300" stop="20211022100000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Семья черной мафии</title>
+  </programme>
+  <programme start="20211022100000 +0300" stop="20211022102500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Призраки</title>
+  </programme>
+  <programme start="20211022102500 +0300" stop="20211022111000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Дневники COVID-19. Нью-Йорк</title>
+  </programme>
+  <programme start="20211022111000 +0300" stop="20211022130000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Магазинные воришки</title>
+  </programme>
+  <programme start="20211022130000 +0300" stop="20211022140000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Наследники</title>
+  </programme>
+  <programme start="20211022140000 +0300" stop="20211022150000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Наследники</title>
+  </programme>
+  <programme start="20211022150000 +0300" stop="20211022160000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Наследники</title>
+  </programme>
+  <programme start="20211022160000 +0300" stop="20211022171000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Наследники</title>
+  </programme>
+  <programme start="20211022171000 +0300" stop="20211022182500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Бог детей</title>
+  </programme>
+  <programme start="20211022182500 +0300" stop="20211022184500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Большой Волк и Маленький Волк</title>
+  </programme>
+  <programme start="20211022184500 +0300" stop="20211022193500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Семья черной мафии</title>
+  </programme>
+  <programme start="20211022193500 +0300" stop="20211022200000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Призраки</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022210500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">В поисках Аляски</title>
+  </programme>
+  <programme start="20211022210500 +0300" stop="20211022220000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Американские боги</title>
+  </programme>
+  <programme start="20211022220000 +0300" stop="20211022225000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Британия</title>
+  </programme>
+  <programme start="20211022225000 +0300" stop="20211022232000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Поколение</title>
+  </programme>
+  <programme start="20211022232000 +0300" stop="20211022235000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">События прошедшей недели с Джоном Оливером</title>
+  </programme>
+  <programme start="20211022235000 +0300" stop="20211023011500 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Тебя никогда здесь не было</title>
+  </programme>
+  <programme start="20211023011500 +0300" stop="20211023023000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Бог детей</title>
+  </programme>
+  <programme start="20211023023000 +0300" stop="20211023032000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Британия</title>
+  </programme>
+  <programme start="20211023032000 +0300" stop="20211023035000 +0300" channel="Amedia Premium HD">
+    <title lang="ru">Поколение</title>
+  </programme>
+  <programme start="20211022081500 +0300" stop="20211022100500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Призрачный гонщик</title>
+  </programme>
+  <programme start="20211022100500 +0300" stop="20211022114500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Призрачный гонщик 2</title>
+  </programme>
+  <programme start="20211022114500 +0300" stop="20211022132500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Солт</title>
+  </programme>
+  <programme start="20211022132500 +0300" stop="20211022150500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">После заката</title>
+  </programme>
+  <programme start="20211022150500 +0300" stop="20211022170500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Ограбление на Бейкер-стрит</title>
+  </programme>
+  <programme start="20211022170500 +0300" stop="20211022185500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Ограбление по-итальянски</title>
+  </programme>
+  <programme start="20211022185500 +0300" stop="20211022210000 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Плохие парни</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022233500 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Плохие парни 2</title>
+  </programme>
+  <programme start="20211022233500 +0300" stop="20211023013000 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Мы - Миллеры</title>
+  </programme>
+  <programme start="20211023013000 +0300" stop="20211023031000 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Шпион, который меня кинул</title>
+  </programme>
+  <programme start="20211023031000 +0300" stop="20211023043000 +0300" channel="Кино ТВ HD">
+    <title lang="ru">Эйс Вентура</title>
+  </programme>
+  <programme start="20211022085500 +0300" stop="20211022103500 +0300" channel="ViP Premiere">
+    <title lang="ru">Астрал 4. Последний ключ</title>
+  </programme>
+  <programme start="20211022103500 +0300" stop="20211022120000 +0300" channel="ViP Premiere">
+    <title lang="ru">22 мили</title>
+  </programme>
+  <programme start="20211022120000 +0300" stop="20211022132500 +0300" channel="ViP Premiere">
+    <title lang="ru">За мечтой</title>
+  </programme>
+  <programme start="20211022132500 +0300" stop="20211022153500 +0300" channel="ViP Premiere">
+    <title lang="ru">Маленькие женщины</title>
+  </programme>
+  <programme start="20211022153500 +0300" stop="20211022171500 +0300" channel="ViP Premiere">
+    <title lang="ru">Офелия</title>
+  </programme>
+  <programme start="20211022171500 +0300" stop="20211022185500 +0300" channel="ViP Premiere">
+    <title lang="ru">Астрал 4. Последний ключ</title>
+  </programme>
+  <programme start="20211022185500 +0300" stop="20211022210000 +0300" channel="ViP Premiere">
+    <title lang="ru">Мотылек</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022223000 +0300" channel="ViP Premiere">
+    <title lang="ru">Рэмбо</title>
+  </programme>
+  <programme start="20211022223000 +0300" stop="20211023001500 +0300" channel="ViP Premiere">
+    <title lang="ru">Три секунды</title>
+  </programme>
+  <programme start="20211023001500 +0300" stop="20211023014500 +0300" channel="ViP Premiere">
+    <title lang="ru">Слендермен</title>
+  </programme>
+  <programme start="20211023014500 +0300" stop="20211023031500 +0300" channel="ViP Premiere">
+    <title lang="ru">Гори, гори ясно</title>
+  </programme>
+  <programme start="20211022093500 +0300" stop="20211022112000 +0300" channel="ViP Megahit">
+    <title lang="ru">Мачо и ботан 2</title>
+  </programme>
+  <programme start="20211022112000 +0300" stop="20211022130500 +0300" channel="ViP Megahit">
+    <title lang="ru">Мы - Миллеры</title>
+  </programme>
+  <programme start="20211022130500 +0300" stop="20211022145500 +0300" channel="ViP Megahit">
+    <title lang="ru">Багровый пик</title>
+  </programme>
+  <programme start="20211022145500 +0300" stop="20211022165500 +0300" channel="ViP Megahit">
+    <title lang="ru">Привидение</title>
+  </programme>
+  <programme start="20211022165500 +0300" stop="20211022182000 +0300" channel="ViP Megahit">
+    <title lang="ru">Незваные</title>
+  </programme>
+  <programme start="20211022182000 +0300" stop="20211022200000 +0300" channel="ViP Megahit">
+    <title lang="ru">Зачарованная</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022215500 +0300" channel="ViP Megahit">
+    <title lang="ru">Красотка</title>
+  </programme>
+  <programme start="20211022215500 +0300" stop="20211022232000 +0300" channel="ViP Megahit">
+    <title lang="ru">Красотки в бегах</title>
+  </programme>
+  <programme start="20211022232000 +0300" stop="20211023010500 +0300" channel="ViP Megahit">
+    <title lang="ru">Графиня из Гонконга</title>
+  </programme>
+  <programme start="20211023010500 +0300" stop="20211023025000 +0300" channel="ViP Megahit">
+    <title lang="ru">Мачо и ботан</title>
+  </programme>
+  <programme start="20211023025000 +0300" stop="20211023043500 +0300" channel="ViP Megahit">
+    <title lang="ru">Мачо и ботан 2</title>
+  </programme>
+  <programme start="20211022095000 +0300" stop="20211022101500 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022101500 +0300" stop="20211022110000 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022110000 +0300" stop="20211022114500 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022114500 +0300" stop="20211022123000 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022123000 +0300" stop="20211022131500 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022131500 +0300" stop="20211022140000 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022140000 +0300" stop="20211022144500 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022144500 +0300" stop="20211022151500 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022151500 +0300" stop="20211022154000 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022154000 +0300" stop="20211022160500 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022160500 +0300" stop="20211022163000 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022163000 +0300" stop="20211022171500 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022171500 +0300" stop="20211022180000 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022180000 +0300" stop="20211022184500 +0300" channel="ViP Serial">
+    <title lang="ru">Атлантида</title>
+  </programme>
+  <programme start="20211022184500 +0300" stop="20211022193000 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022193000 +0300" stop="20211022201500 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022201500 +0300" stop="20211022210000 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022210000 +0300" stop="20211022215000 +0300" channel="ViP Serial">
+    <title lang="ru">Спартак</title>
+  </programme>
+  <programme start="20211022215000 +0300" stop="20211022225000 +0300" channel="ViP Serial">
+    <title lang="ru">Спартак</title>
+  </programme>
+  <programme start="20211022225000 +0300" stop="20211022231000 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022231000 +0300" stop="20211022233000 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022233000 +0300" stop="20211022235000 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211022235000 +0300" stop="20211023001500 +0300" channel="ViP Serial">
+    <title lang="ru">Записки юного врача</title>
+  </programme>
+  <programme start="20211023001500 +0300" stop="20211023011000 +0300" channel="ViP Serial">
+    <title lang="ru">Спартак</title>
+  </programme>
+  <programme start="20211023011000 +0300" stop="20211023020500 +0300" channel="ViP Serial">
+    <title lang="ru">Спартак</title>
+  </programme>
+  <programme start="20211023020500 +0300" stop="20211023025000 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211023025000 +0300" stop="20211023033500 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211023033500 +0300" stop="20211023041500 +0300" channel="ViP Serial">
+    <title lang="ru">Викинги</title>
+  </programme>
+  <programme start="20211022091500 +0300" stop="20211022104000 +0300" channel="ViP Comedy">
+    <title lang="ru">Бандитки</title>
+  </programme>
+  <programme start="20211022104000 +0300" stop="20211022121500 +0300" channel="ViP Comedy">
+    <title lang="ru">Смоки и Бандит</title>
+  </programme>
+  <programme start="20211022121500 +0300" stop="20211022143000 +0300" channel="ViP Comedy">
+    <title lang="ru">Правдивая ложь</title>
+  </programme>
+  <programme start="20211022143000 +0300" stop="20211022160500 +0300" channel="ViP Comedy">
+    <title lang="ru">Каникулы</title>
+  </programme>
+  <programme start="20211022160500 +0300" stop="20211022173500 +0300" channel="ViP Comedy">
+    <title lang="ru">Каникулы мечты</title>
+  </programme>
+  <programme start="20211022173500 +0300" stop="20211022190500 +0300" channel="ViP Comedy">
+    <title lang="ru">Добро пожаловать, или Соседям вход воспрещен</title>
+  </programme>
+  <programme start="20211022190500 +0300" stop="20211022203000 +0300" channel="ViP Comedy">
+    <title lang="ru">Доспехи Бога</title>
+  </programme>
+  <programme start="20211022203000 +0300" stop="20211022221000 +0300" channel="ViP Comedy">
+    <title lang="ru">Доспехи Бога 2</title>
+  </programme>
+  <programme start="20211022221000 +0300" stop="20211022235500 +0300" channel="ViP Comedy">
+    <title lang="ru">Шанхайские рыцари</title>
+  </programme>
+  <programme start="20211022235500 +0300" stop="20211023013500 +0300" channel="ViP Comedy">
+    <title lang="ru">Дикий, дикий Запад</title>
+  </programme>
+  <programme start="20211023013500 +0300" stop="20211023030000 +0300" channel="ViP Comedy">
+    <title lang="ru">Бандитки</title>
+  </programme>
+  <programme start="20211023030000 +0300" stop="20211023043000 +0300" channel="ViP Comedy">
+    <title lang="ru">Женись на мне, чувак</title>
+  </programme>
+  <programme start="20211022093000 +0300" stop="20211022112000 +0300" channel="Кинохит">
+    <title lang="ru">Доктор Стрэндж</title>
+  </programme>
+  <programme start="20211022112000 +0300" stop="20211022134500 +0300" channel="Кинохит">
+    <title lang="ru">Криминальное чтиво</title>
+  </programme>
+  <programme start="20211022134500 +0300" stop="20211022153000 +0300" channel="Кинохит">
+    <title lang="ru">Предложение</title>
+  </programme>
+  <programme start="20211022153000 +0300" stop="20211022171500 +0300" channel="Кинохит">
+    <title lang="ru">Полицейский из Беверли-Хиллз-2</title>
+  </programme>
+  <programme start="20211022171500 +0300" stop="20211022190000 +0300" channel="Кинохит">
+    <title lang="ru">Полицейский из Беверли-Хиллз-3</title>
+  </programme>
+  <programme start="20211022190000 +0300" stop="20211022205500 +0300" channel="Кинохит">
+    <title lang="ru">Сквозь снег</title>
+  </programme>
+  <programme start="20211022205500 +0300" stop="20211022223000 +0300" channel="Кинохит">
+    <title lang="ru">Кикбоксер</title>
+  </programme>
+  <programme start="20211022223000 +0300" stop="20211023002000 +0300" channel="Кинохит">
+    <title lang="ru">Чем заняться мертвецу в Денвере</title>
+  </programme>
+  <programme start="20211023002000 +0300" stop="20211023020500 +0300" channel="Кинохит">
+    <title lang="ru">Дикие штучки</title>
+  </programme>
+  <programme start="20211023020500 +0300" stop="20211023033500 +0300" channel="Кинохит">
+    <title lang="ru">Девушка из Джерси</title>
+  </programme>
+  <programme start="20211022091500 +0300" stop="20211022111000 +0300" channel="Киномикс">
+    <title lang="ru">Возвращение героя</title>
+  </programme>
+  <programme start="20211022111000 +0300" stop="20211022131500 +0300" channel="Киномикс">
+    <title lang="ru">Выжившая</title>
+  </programme>
+  <programme start="20211022131500 +0300" stop="20211022152000 +0300" channel="Киномикс">
+    <title lang="ru">Зов волка</title>
+  </programme>
+  <programme start="20211022152000 +0300" stop="20211022174000 +0300" channel="Киномикс">
+    <title lang="ru">Крейсер</title>
+  </programme>
+  <programme start="20211022174000 +0300" stop="20211022200000 +0300" channel="Киномикс">
+    <title lang="ru">Город воров</title>
+  </programme>
+  <programme start="20211022200000 +0300" stop="20211022213500 +0300" channel="Киномикс">
+    <title lang="ru">Черный пес</title>
+  </programme>
+  <programme start="20211022213500 +0300" stop="20211022232500 +0300" channel="Киномикс">
+    <title lang="ru">Эффект колибри</title>
+  </programme>
+  <programme start="20211022232500 +0300" stop="20211023010500 +0300" channel="Киномикс">
+    <title lang="ru">Тринадцать привидений</title>
+  </programme>
+  <programme start="20211023010500 +0300" stop="20211023030500 +0300" channel="Киномикс">
+    <title lang="ru">Супруги Морган в бегах</title>
+  </programme>
 </tv>
