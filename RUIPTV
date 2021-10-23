@@ -58,7 +58,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 
 #EXTINF:-1, tvg-id="Кино ТВ" tvg-logo="http://telik.online/images/kino_tv.png" tvg-name="Кино ТВ"  group-title="Movie",Кино ТВ
-http://50.7.161.20:8081/504/index.m3u8?wmsAuthSign=1634948479p82i06i032i88S09bb33b44b30e4ed6c3c23828e68e0db
+http://s1.ttranslit.com:8081/kino_tv/index.m3u8?wmsAuthSign=1634990004S0f6c46fd296e2ccdeaf3fc7de9b4bb99S82h06h032h88
 
 #EXTINF:-1, tvg-id="Кинокомедия" tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Кинокомедия"  group-title="Movie",Кинокомедия
 http://109.239.128.126:8080/kinokomedia/tracks-v2a1/mono.m3u8
