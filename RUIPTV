@@ -126,7 +126,7 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1, tvg-id="FAN HD" tvg-logo="https://resizer.mail.ru/p/4701a3a1-90e4-537f-8452-9c76c90223b2/AAACHpV-QTGsjQoAZzjnUGgHP-bfrJ6bJHi1lm-FoWnny_KdttMQFciPebar3-FIdN2RqSffPx3SXo0ROMJTjM8f9u4.png" tvg-name="FAN HD"  group-title="Movie",FAN HD
 http://176.115.152.6:1234
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://resizer.mail.ru/p/a4482f03-8106-5d79-86ca-2985e4c66be2/AQACWgY7a1QnMqJzW8ol2UF_l7XPtsqOPZc-1bsO_M2C_7sNCVBBUceC_y6bKGPWD3oKjxTOY0zTeq6VOHbvSYgKLpM.png" tvg-name="Иллюзион"  group-title="Movie",Иллюзион
+#EXTINF:-1, tvg-id="Иллюзион +" tvg-logo="https://resizer.mail.ru/p/a4482f03-8106-5d79-86ca-2985e4c66be2/AQACWgY7a1QnMqJzW8ol2UF_l7XPtsqOPZc-1bsO_M2C_7sNCVBBUceC_y6bKGPWD3oKjxTOY0zTeq6VOHbvSYgKLpM.png" tvg-name="Иллюзион"  group-title="Movie",Иллюзион
 http://109.239.128.126:8080/illusion_plus/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="СТС Love" tvg-logo="http://tv.tivix.co/uploads/posts/2016-12/1481287122_sts_love.png" tvg-name="СТС Love"  group-title="Movie",СТС Love
