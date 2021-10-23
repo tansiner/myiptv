@@ -27,6 +27,9 @@ http://37.17.12.119:8904/play/a00g
 #EXTINF:-1, tvg-id="SONY Sci-Fi" tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sci-Fi"  group-title="Movie",Sci-Fi
 http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
 
+#EXTINF:-1, tvg-id="Not Exist" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/sci_fi.jpg" tvg-name="SCI-FI ОНЛАЙН"  group-title="Movie",SCI-FI ОНЛАЙН
+https://autopilot.catcast.tv/content/38801/index.m3u8
+
 #EXTINF:-1, tvg-id="SONY ТВ" tvg-logo="https://resizer.mail.ru/p/a27eed55-5838-599b-a249-1322fffe08c7/AQACuEodeNazWlZnsvU4W9cWPbVWQX1reC2apV5YJVYDbonUi9n4DobM_C7Uf64t6_T-P9IH3m_-6I4t7wCxh3CAkPY.png" tvg-name="Sony Channel HD"  group-title="Movie",Sony Channel HD
 http://194.9.27.164:8110/play/SONY_CHANNEL_HD/index.m3u8
 
@@ -39,11 +42,14 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1, tvg-id="TV1000" tvg-logo="http://epg.it999.ru/img/4062.png" tvg-name="TV1000"  group-title="Movie",TV1000
 http://dmitry-tv.ml/hls/CH_TV1000.m3u8
 
-#EXTINF:-1, tvg-id="ViP Megahit" tvg-logo="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" tvg-name="VIP Megahit"  group-title="Movie",VIP Megahit
-http://iptv.prosto.tv:7000/ch43/video.m3u8
+#EXTINF:-1, tvg-id="TV1000 Русское кино" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/tv_1000_rk.jpg" tvg-name="TV1000 Русское кино"  group-title="Movie",TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 
 #EXTINF:-1, tvg-id="ViP Comedy" tvg-logo="https://resizer.mail.ru/p/fac64fc6-ffd6-5c2f-bb56-3019db54a57b/dpr:200/AAACOQieLLwXogvhDcDdnmcQkp3pbjUu1O324SDwFqzsR-bvKsJQu1UvWEeO-Ja5pz_3hGVwxwhDXi-g_XozkPMMU3A.png" tvg-name="ViP Comedy"  group-title="Movie",ViP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+
+#EXTINF:-1, tvg-id="ViP Megahit" tvg-logo="https://resizer.mail.ru/p/0e8e54ea-9b32-5574-8bcf-782803e8a946/AAACiNEzSEUhnkyNSvkrrfyANcfnXcDR18jsumeYCk3vhrWdihJCKuUvEeqRa-giopqkhPyBC8p7u8VNaWj15ezTY-E.png" tvg-name="VIP Megahit"  group-title="Movie",VIP Megahit
+http://iptv.prosto.tv:7000/ch43/video.m3u8
 
 #EXTINF:-1, tvg-id="ViP Premiere" tvg-logo="https://resizer.mail.ru/p/258e4a8c-92f2-5440-be6a-d2752205ab56/AAAC6zQ8DzNxWZa8bI8Kripa4xv-1zzTQ3jqcANIPdKEI3ZVOj-https://resizer.mail.ru/p/258e4a8c-92f2-5440-be6a-d2752205ab56/dpr:200/AAAC6zQ8DzNxWZa8bI8Kripa4xv-1zzTQ3jqcANIPdKEI3ZVOj-xU6XOftoizqvgiXNKbIkl26t3TDKPZWFGhVUN9Nw.png" tvg-name="ViP Premiere"  group-title="Movie",ViP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
@@ -87,11 +93,17 @@ http://91.221.201.2:7006/play/a006/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1, tvg-id="Остросюжетное HD" tvg-logo="http://telik.online/images/ostrosyuzhetnoe-hd.png" tvg-name="Остросюжетное HD"  group-title="Movie",Остросюжетное HD
 http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=7ccc35a6987a19e96bee40ca95504360-1634918943-82i06i032i88
 
+#EXTINF:-1, tvg-id="Not Exist" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/premiera.jpg" tvg-name="ПРЕМЬЕРА"  group-title="Movie",ПРЕМЬЕРА
+http://sezon.tv/wp-content/uploads/2021/08/premiera.jpg
+
 #EXTINF:-1, tvg-id="Романтичное HD" tvg-logo="https://resizer.mail.ru/p/01def78e-9679-5aac-81b1-40e6e6ae55c8/dpr:200/AAAC2a7ThWHnbjA4rXpWYawloYwghiAtK5p43oxW8laK1mwtYAVu5O9FoKJX73fNfnyC74V41JpCHtPlJ0rqIFxqBdM.png" tvg-name="Романтичное HD"  group-title="Movie",Романтичное HD
 http://50.7.222.90:8081/rom_hd/tracks-1,2/index.m3u8?wmsAuthSign=fc2fdd8c7bbdf4cbbc5bfbe8d5b646a9-1634918664-82i06i032i88
 
 #EXTINF:-1, tvg-id="Страшное HD" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
 http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
+
+#EXTINF:-1, tvg-id="ТНТ HD" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/tnt.jpg" tvg-name="ТНТ HD"  group-title="Movie",ТНТ HD
+http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="ТНТ4 HD" tvg-logo="https://resizer.mail.ru/p/67c822bd-d3d9-5ff3-a8fb-9ac9a1498051/AQACNm-XygjgjYYN4Mk2ob2lNgk0XQnr8f-svBWewqbHLhjjfd-NP5MTvgw81oKom4T4vXHay4mdRCJJ1TQ3tz9t3KI.png" tvg-name="ТНТ4 HD"  group-title="Movie",ТНТ4 HD
 http://85.112.114.11:8088/udp/238.2.61.243:1234
@@ -102,15 +114,15 @@ http://50.7.231.220:8081/219/tracks-1,2/index.m3u8?wmsAuthSign=1634863289p82i06i
 #EXTINF:-1, tvg-id="Шокирующее HD" tvg-logo="http://epg.cdntv.online/img/905.png" tvg-name="Шокирующее HD"  group-title="Movie",Шокирующее HD
 http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
 
-#EXTINF:-1, tvg-id="TV1000 Русское кино" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/tv_1000_rk.jpg" tvg-name="TV1000 Русское кино"  group-title="Movie",TV1000 Русское кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1, tvg-id="TV1000 World kino" tvg-logo="data:image/png;base64,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" tvg-name="TV1000 World kino"  group-title="Movie",TV1000 World kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
 
-#EXTINF:-1, tvg-id="Not Exist" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/sci_fi.jpg" tvg-name="SCI-FI ОНЛАЙН"  group-title="Movie",SCI-FI ОНЛАЙН
-https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1, tvg-id="Мужское кино" tvg-logo="https://fast.ntvplus.tv/files/image/02/31/10/-channel!1bj.png" tvg-name="Мужское кино"  group-title="Movie",Мужское кино
+http://194.146.190.241:4000/play/a02s/index.m3u8
 
-#EXTINF:-1, tvg-id="Not Exist" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/premiera.jpg" tvg-name="ПРЕМЬЕРА "  group-title="Movie",ПРЕМЬЕРА 
-http://sezon.tv/wp-content/uploads/2021/08/premiera.jpg
+#EXTINF:-1, tvg-id="Hollywood HD" tvg-logo="https://lh3.googleusercontent.com/proxy/rTzmI4JFbgUHn04P_bdfLdXMFqU6RqeyZrW_BoTd2Ng1Bl3R9HbD9KNROvb7Pk_qIN6FFvib0FJKHIxLOw-VJIoG7nr8y7k3C_x7WpndPzTyy2Dr3XChGPc" tvg-name="Hollywood HD"  group-title="Movie",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
 
-#EXTINF:-1, tvg-id="ТНТ HD" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/tnt.jpg" tvg-name="ТНТ HD"  group-title="Movie",ТНТ HD
-http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
+#EXTINF:-1, tvg-id="FAN HD" tvg-logo="https://resizer.mail.ru/p/4701a3a1-90e4-537f-8452-9c76c90223b2/AAACHpV-QTGsjQoAZzjnUGgHP-bfrJ6bJHi1lm-FoWnny_KdttMQFciPebar3-FIdN2RqSffPx3SXo0ROMJTjM8f9u4.png" tvg-name="FAN HD"  group-title="Movie",FAN HD
+http://176.115.152.6:1234
 
