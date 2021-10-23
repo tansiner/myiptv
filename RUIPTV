@@ -96,7 +96,7 @@ http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
 #EXTINF:-1, tvg-id="ТНТ4 HD" tvg-logo="https://resizer.mail.ru/p/67c822bd-d3d9-5ff3-a8fb-9ac9a1498051/AQACNm-XygjgjYYN4Mk2ob2lNgk0XQnr8f-svBWewqbHLhjjfd-NP5MTvgw81oKom4T4vXHay4mdRCJJ1TQ3tz9t3KI.png" tvg-name="ТНТ4 HD"  group-title="Movie",ТНТ4 HD
 http://85.112.114.11:8088/udp/238.2.61.243:1234
 
-#EXTINF:-1, tvg-id="Хит HD" tvg-logo="https://lh3.googleusercontent.com/proxy/YYLSNjS76GhE_Qjm7vDAX32lcoamEKaqTwjzKNiMqIzPtGA9-yIvwPta11bIR4ZnBIa-Ss80QysMSII" tvg-name="Хит HD"  group-title="Movie",Хит HD
+#EXTINF:-1, tvg-id="Хит HD" tvg-logo="https://resizer.mail.ru/p/66551525-e9ba-57b3-8a0b-1f1b67de96c1/AQAC7J08VH5G8Xkxj9FEBYGWohNXd-TtrMC49-KfoVPuc3_5PhoaWqWgIQhA_CFBjegi5f42wpr6vMfQEwt1BfFaFHQ.png" tvg-name="Хит HD"  group-title="Movie",Хит HD
 http://50.7.231.220:8081/219/tracks-1,2/index.m3u8?wmsAuthSign=1634863289p82i06i032i88Seda0c614ca5b36a49f80b19fcca36f02
 
 #EXTINF:-1, tvg-id="Шокирующее HD" tvg-logo="http://epg.cdntv.online/img/905.png" tvg-name="Шокирующее HD"  group-title="Movie",Шокирующее HD
