@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/tansiner/myiptv/blob/main/RUEPG"  
+#EXTM3U 
 
 #EXTINF:-1, tvg-id="А1" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1 HD"  group-title="Movie",Amedia 1 HD
 http://50.7.231.220:8081/132/tracks-1,2/index.m3u8?wmsAuthSign=1634919102p82i06i032i88Sb246b3746f868fa167e2a6f6358dad71
