@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="Блокбастер HD">
-<display-name lang="ru">Блокбастер</display-name>
-<icon src="https://resizer.mail.ru/p/1d4845f6-be54-5cab-ac67-07f5d373fae9/dpr:200/AAAC2qkD3zvR78kr_iKMEOnfivJYxKlA6RXefUtD6gs2iAunaiDb25-rSwDFtYtLGYIFJj0EkMuL4cJJG33I2hgHPOM.png" />
-<url>http://www.tv.mail.ru</url>
-</channel>
+  <channel id="Блокбастер HD">
+    <display-name lang="ru">Блокбастер HD</display-name>
+    <icon src="https://resizer.mail.ru/p/1d4845f6-be54-5cab-ac67-07f5d373fae9/dpr:200/AQACbRw3-BGpt79w29WPNl3qGh9KQmJJsOp9muvgbAbG51LmCNlGrRFz32VJRHHnIbKH7gGpD7sxdx00qGEVYaSGns8.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
   
 <channel id="Страшное HD">
 <display-name lang="ru">Страшное HD</display-name>
