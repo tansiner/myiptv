@@ -58,7 +58,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 http://dmitry-tv.ml/hls/CH_ViPSERIALHD.m3u8
 
 #EXTINF:-1, tvg-id="Кино ТВ" tvg-logo="http://telik.online/images/kino_tv.png" tvg-name="Кино ТВ"  group-title="Movie",Кино ТВ
-http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
+http://50.7.161.20:8081/504/index.m3u8?wmsAuthSign=1634948479p82i06i032i88S09bb33b44b30e4ed6c3c23828e68e0db
 
 #EXTINF:-1, tvg-id="Кинокомедия" tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Кинокомедия"  group-title="Movie",Кинокомедия
 http://109.239.128.126:8080/kinokomedia/tracks-v2a1/mono.m3u8
@@ -143,4 +143,7 @@ http://s1.ttranslit.com:8081/illuzion_rus/index.m3u8?wmsAuthSign=1634991920Sfcf6
 
 #EXTINF:-1, tvg-id="ICTV" tvg-logo="http://tv.tivix.co/uploads/posts/2016-06/1466620883_ictv.png" tvg-name="ICTV"  group-title="Movie",ICTV
 http://s2.ttranslit.com:8081/s4g_ictv/index.m3u8?wmsAuthSign=1634992057Sdeee5e5a77b1cabf46f62cfcda309e5bS82h06h032h88
+
+#EXTINF:-1, tvg-id="Блокбастер" tvg-logo="https://www.cableman.ru/sites/default/files/blokbaster_1.png?1622789477" tvg-name="Блокбастер"  group-title="Movie",Блокбастер
+Блокбастер HD
 
