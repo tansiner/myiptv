@@ -66,7 +66,7 @@ http://sezon.tv/wp-content/uploads/2021/08/premiera.jpg
 #EXTINF:-1, tvg-id="Романтичное HD" tvg-logo="https://resizer.mail.ru/p/01def78e-9679-5aac-81b1-40e6e6ae55c8/dpr:200/AAAC2a7ThWHnbjA4rXpWYawloYwghiAtK5p43oxW8laK1mwtYAVu5O9FoKJX73fNfnyC74V41JpCHtPlJ0rqIFxqBdM.png" tvg-name="Романтичное HD"  group-title="Movie",Романтичное HD
 http://50.7.222.90:8081/rom_hd/tracks-1,2/index.m3u8?wmsAuthSign=fc2fdd8c7bbdf4cbbc5bfbe8d5b646a9-1634918664-82i06i032i88
 #EXTINF:-1, tvg-id="Страшное" tvg-logo="http://epg.cdntv.online/img/417.png" tvg-name="Страшное HD"  group-title="Movie",Страшное HD
-http://163.172.186.160:8082/m1Tz/live/r_462.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMDozNDowNSBBTSZoYXNoX3ZhbHVlPUk0a1Y4YUtJd1Rlem5EVEtMVVdvd0E9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlwPTg4LjIzMC42MC4yOCZjaGVja2lwPXRydWU=
+http://163.172.186.160:8082/m1Tz/live/r_462.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMDozMzo0OSBBTSZoYXNoX3ZhbHVlPTlvNGRFK1VsckNuWjFOTTRGVVB4b3c9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlwPTg4LjIzMC42MC4yOCZjaGVja2lwPXRydWU=
 #EXTINF:-1, tvg-id="ТНТ HD" tvg-logo="http://sezon.tv/wp-content/uploads/2021/08/tnt.jpg" tvg-name="ТНТ HD"  group-title="Movie",ТНТ HD
 http://109.239.128.126:8080/tnt/tracks-v2a1/mono.m3u8
 #EXTINF:-1, tvg-id="ТНТ4 HD" tvg-logo="https://resizer.mail.ru/p/67c822bd-d3d9-5ff3-a8fb-9ac9a1498051/AQACNm-XygjgjYYN4Mk2ob2lNgk0XQnr8f-svBWewqbHLhjjfd-NP5MTvgw81oKom4T4vXHay4mdRCJJ1TQ3tz9t3KI.png" tvg-name="ТНТ4 HD"  group-title="Movie",ТНТ4 HD
