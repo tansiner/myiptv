@@ -144,6 +144,6 @@ http://s1.ttranslit.com:8081/illuzion_rus/index.m3u8?wmsAuthSign=1634991920Sfcf6
 #EXTINF:-1, tvg-id="ICTV" tvg-logo="http://tv.tivix.co/uploads/posts/2016-06/1466620883_ictv.png" tvg-name="ICTV"  group-title="Movie",ICTV
 http://s2.ttranslit.com:8081/s4g_ictv/index.m3u8?wmsAuthSign=1634992057Sdeee5e5a77b1cabf46f62cfcda309e5bS82h06h032h88
 
-#EXTINF:-1, tvg-id="Блокбастер" tvg-logo="https://www.cableman.ru/sites/default/files/blokbaster_1.png?1622789477" tvg-name="Блокбастер"  group-title="Movie",Блокбастер
+#EXTINF:-1, tvg-id="Блокбастер HD" tvg-logo="" tvg-name="Блокбастер"  group-title="Movie",Блокбастер HD
 https://v2.catcast.tv/content/40017/index.m3u8
 
