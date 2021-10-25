@@ -130,7 +130,7 @@ http://176.115.152.6:1234
 http://109.239.128.126:8080/illusion_plus/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="СТС Love" tvg-logo="http://tv.tivix.co/uploads/posts/2016-12/1481287122_sts_love.png" tvg-name="СТС Love"  group-title="Unsorted",СТС Love
-http://s2.ttranslit.com:8081/s4g_stslove/index.m3u8?wmsAuthSign=1634991519Sc49467f63db0deb338168ecfd4c6ccc5S82h06h032h88
+https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8?version=2
 
 #EXTINF:-1, tvg-id="Русский роман" tvg-logo="http://tv.tivix.co/uploads/posts/2016-04/1461317112_russkiy-roman.png" tvg-name="Русский роман"  group-title="Unsorted",Русский роман
 http://s2.ttranslit.com:8081/s4g_rys_roman/index.m3u8?wmsAuthSign=1634991628S55b6b9f14f51e2d52c8fe7959cbcb7b5S82h06h032h88
