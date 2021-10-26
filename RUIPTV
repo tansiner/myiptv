@@ -171,3 +171,6 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1, tvg-id="Animal Planet" tvg-logo="https://resizer.mail.ru/p/061a2499-be8d-55cc-8fc3-0ac66644321d/AQACaHl_fr6g9XayNeMyw4RlH7uyG-LDTfPXmFT5iPANdh88LaA0wAUMEa4pZCqPmbicSdt3pS7261g6n2GNfPN7mFI.png" tvg-name="Animal Planet"  group-title="Unsorted",Animal Planet
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
 
+#EXTINF:-1, tvg-id="СТС" tvg-logo="https://resizer.mail.ru/p/cccbc9bd-a1dc-539f-aac2-70de14d14dea/AAACRoRatESS0RNjx4gsMsHjUzS5G3suzBQXt28HotFOcPlImBB7PKeY3VSeczRLzXfoeMAbN7m_KabaEKjCzHKd1oY.png" tvg-name="СТС"  group-title="Unsorted",СТС
+https://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8?version=2
+
